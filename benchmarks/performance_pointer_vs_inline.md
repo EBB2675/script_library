@@ -20,7 +20,7 @@ Which one uses less memory / disk and is faster?
 
 ---
 
-## How we tested
+## How to test
 
 1. **Created 100 000 carbon atoms** in both layouts inside the real NOMAD runtime  
    (plug-ins disabled with `NOMAD_SKIP_PLUGINS=1`).
