@@ -8,7 +8,7 @@ Curate stratified ORCA samples from the NOMAD Repository (v1 API).
 - Write JSON and CSV manifests for each sample size
 
 Run:
-    python script.py
+    python script_random_selection.py
 """
 
 import csv
