@@ -72,7 +72,7 @@ You can change:
 From the directory containing `script.py`:
 
 ```bash
-python script.py
+python script_distinct_authors.py
 ```
 
 The script will:
