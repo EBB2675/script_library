@@ -1,0 +1,3502 @@
+[
+  {
+    "entry_id": "PCEER1d51I7lNfv3DXcG61-p8WPz",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/01782/01782.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "1dJnjsDkHWCWvOX1wchk4aWhg_jw",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "20313/20313.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ElsUBarPewSlBp07Ovz-up0aqocn",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "14741/14741.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "-A1seVvJI9CfV8vBxaaL3aDzK_oq",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11487.LDA.tddft.20628-21785/21027/21027.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "wReeNSU_4ozKxMPRE2RZ3ar8je2y",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "20775/20775.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "61SYEUECOcpEhD2tO6xNGj4D5E4V",
+    "upload_id": "8R3qo6DCS8ir-df3RbEXDA",
+    "mainfile": "55761.PBE0.gs.tddft.7699-10046/09929/09929.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "3iKZsr3NqPVLdtObajEc9cxXTpt0",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "21502/21502.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "NHKgunNEqvNjEAhDGmN1pwI_d8dN",
+    "upload_id": "v2p66Xi4SwenPOv8WvOvAA",
+    "mainfile": "55767.PBE0.gs.tddft.19439-21785/20159/20159.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "1Y-gTPyj0pWKYLP_Z558dP-Kxrec",
+    "upload_id": "iBz6W-MjQc6cl3ir_-sekw",
+    "mainfile": "06131/06131.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "9ZG6hYDSXTzpTJQfqHLc7TV3rFlR",
+    "upload_id": "1uZ4lWNEQ9udQaeip84cPA",
+    "mainfile": "11472.LDA.tddft.3438-4583/03559/03559.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "JjGwXVU7iIxoOACxsORImWn8E-3Z",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11475.LDA.tddft.6876-8021/07715/07715.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "uAFJooHJe5Q8XPhl0shNQxkL2fSk",
+    "upload_id": "Gi1MKu7LS42KwnDeFXL5Hg",
+    "mainfile": "55758.PBE0.gs.tddft.1500-3000/02350/02350.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "gDym8k_zpiMIalF0M9Zxb_AJAmgA",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/10498/10498.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "FotBoRVcxmNU_2l9L7wcR8_r_RNj",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/16696/16696.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "1AK-0198VmHH_LKW6rrk9wfvfzQf",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/00299/00299.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "k1aPsMqF31aQKrPzvWmkwoImKhXG",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HIP-CO_Zn2+/ACE-HIP-CO_Zn2+.aims/ACE-HIP-CO_Zn2+.048.aims/energies/ORCA_PBEh-3c/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "AdP_-4Yfhqt7IhvA8MrMjWQVB8Xv",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/16563/16563.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "X9Y2163ADnfEIUdAfbxK1U31CRHN",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11478.LDA.tddft.10314-11459/10522/10522.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "uqcI-DKUDQ-FU8N30erxkvtEqI8N",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "12964/12964.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "WSpRbvHsJ5Mz4vUDMQtKj9BkZZ8-",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/04715/04715.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "2v6Oa5C4cyuqT_QayFnHAQ64w-hF",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/02855/02855.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "FJNyNbNrFit35ajJUSSrOFy13VbD",
+    "upload_id": "fJTu6Ui_S_G4VRhHd9tVeA",
+    "mainfile": "3-i1-u0/output",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "4aUi7I6C2DZFitXZvQJTuoUGNc47",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/16766/16766.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "buJA0mE7GynsDwLAt32zsnEW347_",
+    "upload_id": "YIRtcD9sQZymSmtZCw6I6g",
+    "mainfile": "02262/02262.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "hf2oejiQ91i6dnSJJ4G9cOuyLNdN",
+    "upload_id": "YIRtcD9sQZymSmtZCw6I6g",
+    "mainfile": "01278/01278.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "cNKTvgWw6bAqzY3PVEidKqSRoYjb",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "20857/20857.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "d4n2kZtXTpPhxfHXYEX3G9za3HK3",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11486.LDA.tddft.19482-20627/19649/19649.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "hiGPS6cWrgMjzypQPmF6dyRvPGXD",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/15992/15992.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "D736FTrnDsmg3xfOZOGyZ8Ev83ig",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/03037/03037.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "jpZ2NHUEJ7F9UShAaxOI5lFDBKuz",
+    "upload_id": "YIRtcD9sQZymSmtZCw6I6g",
+    "mainfile": "00153/00153.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "my498ndWZPe-GzZr-2acoNWMDuVX",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/06918/06918.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "2zYgyMjrhXAVdl-z-tTlVSrX1xHk",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11476.LDA.tddft.8022-9167/08477/08477.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "8hah-scmTzSjLzZYnDivaMTrMEOn",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/17117/17117.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "616KbIBAYs0RBdnsACgt4OMCa-A8",
+    "upload_id": "8R3qo6DCS8ir-df3RbEXDA",
+    "mainfile": "55761.PBE0.gs.tddft.7699-10046/08218/08218.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "7kIINKPbOm5Tf1KJocN5uIgtiNJN",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/10363/10363.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "he4lXGGHHDOafA4Fz5gNoPpOdK5a",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/16773/16773.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ww8IDgvaPl_B_-cOQQkfZRaZ8o5c",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "14173/14173.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "71LWk2SuZY9FLuyNw4LKiLA7-Qfq",
+    "upload_id": "1uZ4lWNEQ9udQaeip84cPA",
+    "mainfile": "11472.LDA.tddft.3438-4583/03979/03979.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "6CrvVrjzqX7CoU2ep4ICg0E0-xMD",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/04694/04694.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "AmKZ3rbo40sXW1Q11CjySRcQGAyW",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11487.LDA.tddft.20628-21785/21785/21785.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "TdjJVfNfilhxZGMPRR7GIZ7FeJkE",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/tri/oh/tri_P-B_oh_2/pbe0/scf_pbe0_tri_oh.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "oYJyExWNt1Bn9yfplXmkmxgE6wBL",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11481.LDA.tddft.13752-14897/14870/14870.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Q0qEpC7IjIhWIhcvefhz7U6CKS5B",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/07618/07618.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "c7MYBKG_0Aqq8dQmxSAzNQlYED91",
+    "upload_id": "Gi1MKu7LS42KwnDeFXL5Hg",
+    "mainfile": "55758.PBE0.gs.tddft.1500-3000/02671/02671.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "iSg6ZVDC-pu2kxB_8rq28aFjOhMx",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "12179/12179.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "sYpNeqLgxmIm-4C3mLwqj-N7aqHU",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/11708/11708.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "S_eimfg5pOBiSfpTOSL0YtgZmzRx",
+    "upload_id": "63kvAqQgTPGvmTnZ669Z-g",
+    "mainfile": "55764.PBE0.gs.tddft.12395-14743/14578/14578.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "WPlilybXFtvJekxMdf2IbB7r6gn7",
+    "upload_id": "L5oIyR_UTIWdFv_QN18myw",
+    "mainfile": "03238/03238.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "LclZI1-eIt4Ix8Yj9rfWl1DILnI_",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11487.LDA.tddft.20628-21785/20968/20968.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "LFHqhnbWN5gkY-CTKOTOi3pkkcdb",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11475.LDA.tddft.6876-8021/07343/07343.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "90nTyUflwnSVyJVI_i534LGHXpAi",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/03835/03835.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "NgCV-lHTCLvQyjiRky0mtjlyblz8",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HIE-COH/ACE-HIE-COH.aims/ACE-HIE-COH.029.aims/energies/ORCA_RI-MP2_def2-TZVPP/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "N6OTjRceL_mXW1PNuZ6YaOc4x4MG",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11486.LDA.tddft.19482-20627/19763/19763.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "6FS0TRHTPowRD5g23aVIQM3yXOz2",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/17954/17954.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "9ERVwk7ScvWYBM38z4WmetFSSvrh",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/15500/15500.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "I8nPkPPsOVEZtJCa8pbhch8fbRIG",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/15320/15320.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "c4zKB-kgeNAipYJNv9bNek8kp7BA",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11483.LDA.tddft.16044-17189/16354/16354.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ZBpGSedX5d325YDvP5_w2yJ-wvz3",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "14382/14382.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "2OMZw5Cwox7Y_s-KPq_OxtW5Xyt8",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11487.LDA.tddft.20628-21785/20908/20908.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "0hV_yFHc06y9QUHGtAl9DvzbHzto",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HIP-CO_Zn2+/ACE-HIP-CO_Zn2+.aims/ACE-HIP-CO_Zn2+.024.aims/energies/ORCA_M06-L+D3_def2-QZVPP/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "fnI5Sd5CBuYanoo-8-a9g5pmO2Gp",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "13569/13569.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "8L5t2yJOfccndzqOabzla-cpODfm",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/06592/06592.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "aEd1ulLgrWi2KJyEKrDJfQ964CV-",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11482.LDA.tddft.14898-16043/15805/15805.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "804ch78U94W64zDJtV9ZU_6ZS6Pq",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/14964/14964.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "DyuseeKKv4kG_I3tNNjO-behZf9G",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "21760/21760.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ZliT_ald2aSV8Ddlow4ngDYIb6S9",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/17241/17241.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "LO4wALnhNUJdipWixQBZsX1BkFbN",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11480.LDA.tddft.12606-13751/13409/13409.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "01YJcv_MJxPu8VOZ0NSBwSPlK9cB",
+    "upload_id": "8R3qo6DCS8ir-df3RbEXDA",
+    "mainfile": "55761.PBE0.gs.tddft.7699-10046/09582/09582.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "qnO--l4mspO3YW__BcA4liagIJho",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11476.LDA.tddft.8022-9167/08571/08571.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "iE8CG-Qvd500_9-utHqbD3MGvWGz",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "17728/17728.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "b7CjeBIKDpYhhqOv3SXGe030VEpL",
+    "upload_id": "iBz6W-MjQc6cl3ir_-sekw",
+    "mainfile": "06186/06186.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "9lhzoDRBguSklv936dYj118Wwyb_",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HIE-CO/ACE-HIE-CO.aims/ACE-HIE-CO.012.aims/energies/ORCA_CCSD(T)_def2-SVP/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "rCBoT9cFoLqsrgvmZyLtT5qQgKTd",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11475.LDA.tddft.6876-8021/07836/07836.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "jGu_RTbet_KeAeALTonv6EFCFJ3S",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "18059/18059.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "LYNkEErvEqqPqyAXBeOOCKVFzT3c",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/12595/12595.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "hsHX7vzv8_oPxPZlLqCaK9AxRLNH",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/08713/08713.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "sM9Lr5i9YvO2Lsd1qZ8AiaJ3Bz8D",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11479.LDA.tddft.11460-12605/12054/12054.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "iAkxudfJwVL10fTpKvH-uoh9Dlaq",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "17824/17824.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ydq5-NCAYQA80nZxhgqERzOCP7b8",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "17672/17672.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "9M6wot0qOJGKRmCD-dqPtSw9Ufh9",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/04115/04115.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "YZIllMRzXb1cNoH9TxjA9_-eo-jN",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "11249/11249.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "O8QBDILLgo3lwCxDRIFzislyKydf",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11480.LDA.tddft.12606-13751/13353/13353.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "oTP42BkKTmmhr0aUHsAjcksuHYe1",
+    "upload_id": "g7hniWphQmmzLyaH9TortQ",
+    "mainfile": "00043/00043.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "30EKy2-iywXEzcwp8hvlooXn2CLZ",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/03876/03876.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "tHzX1UDDu89YFWD1wiubYdSo3H0H",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HIE-CO/ACE-HIE-CO.aims/ACE-HIE-CO.002.aims/energies/ORCA_M06-2X+D3_def2-QZVPP/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Uxla-eTS3Wt4pyVeadlB5g-O3gaO",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/17477/17477.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "aVw8SgCYz5MzWklvICHLBXv3eO7s",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11481.LDA.tddft.13752-14897/14152/14152.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "7jKMsNXXa6FeOLUtfzgaKnAzhUmr",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/17565/17565.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "3Lp9hccQcAmX3bXXfTsPh2sHrmD-",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "20434/20434.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "jtDzHp9OZwulK4ETZKSRdolQbO2T",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11478.LDA.tddft.10314-11459/11332/11332.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "yheVS3RWaesHGZBBq45CpoH9SDs7",
+    "upload_id": "YIRtcD9sQZymSmtZCw6I6g",
+    "mainfile": "00620/00620.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "KVJD5gkGLKzdC025mlV9CpgudpJS",
+    "upload_id": "63kvAqQgTPGvmTnZ669Z-g",
+    "mainfile": "55764.PBE0.gs.tddft.12395-14743/12470/12470.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "wQtyFjSWMPFQb8agiRdkwT31a0X-",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "08802/08802.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "2WRwVamAfkzZNPW-DZgtt8izoXGc",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/01927/01927.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Igw0V5ThiYtqzNHG4tmn1qA5GaFl",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/04722/04722.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "FfqWzTvBZTMYlLkVN3z-Je86BfCs",
+    "upload_id": "YIRtcD9sQZymSmtZCw6I6g",
+    "mainfile": "00591/00591.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "kuX_iIVL1tTtNymqM-e8sUiv-050",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "17829/17829.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "JZdMLYBia9p_XlbGYhXIt4GF528e",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "08020/08020.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Wkmj_rfy31I55ogaDQvgE-DQFrsg",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_partial_surface_termination/ad/nh2/ad_Si-N_nh2_3/pbe0/scf_pbe0_ad_nh2.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "zZ9jmMbmd25a1f4VvTW60m_9h8yv",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/15890/15890.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "xHa_Vx6f_ai7hghvvMfMKAOKg12O",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11485.LDA.tddft.18336-19481/18374/18374.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "W6leFWT6k4p7QgWBMxgDgKTQHFZx",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/00405/00405.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "HNILSsjj055frfxXhFbKMzFmexhc",
+    "upload_id": "wodJosSgQMCO8TI09iKTBA",
+    "mainfile": "55757.PBE0.gs.tddft.0-1500/01093/01093.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "5bVjxL-wTIuLpZiM_ZRSqJa5-xdr",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HID-COH_Zn2+/ACE-HID-COH_Zn2+.aims/ACE-HID-COH_Zn2+.149.aims/energies/ORCA_DLPNO-CCSD(T)_def2-QZVPP_PeptideOnly/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "hcJiblLtirk86VMApu0Lw88X2vA2",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11487.LDA.tddft.20628-21785/20951/20951.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "yqy5wasulJxAVrTpBprMstFckEdQ",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/18407/18407.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "TdFQbBBXB1uqk2FP8Hd7LJhTtaXu",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/03857/03857.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "m-6Z8p1GFZg5_PVE2-urp9uHJAaF",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/ad/h/ad_Si-B_h_7/pbe0/scf_pbe0_ad_h.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ySpMZ6Bpvbw5JLftiVpv7u_27Ks3",
+    "upload_id": "weSM5NsUS1mQT0CKCqxlcw",
+    "mainfile": "11473.LDA.tddft.4584-5729/05472/05472.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "jqQrIB9HZ4oKybJTnlaiEmxFhNig",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "11602/11602.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Lp2KuA-HOG9S-rYFD_cUX3pYb7rF",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/12541/12541.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "nqWT9Jke1Nto6Vg-4wNL9p11aWDN",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "08073/08073.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "yTrP6jCj4dnjAQZRyWcDJHdhV-3o",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/18362/18362.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "tqmyjIlPG7DV9UQ59z2v_xYnQr_m",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "16068/16068.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "snmOaV3xGI1qaY3Y29xEsUI6unmV",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/20463/20463.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "zIJL3Nke24IYWjC3oXOXMvSKsztT",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HIE-CO_Zn2+/ACE-HIE-CO_Zn2+.aims/ACE-HIE-CO_Zn2+.014.aims/energies/ORCA_M06+D3_def2-QZVPP/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "X2cZweHtBLFgiR-qekuMRGG0l0F4",
+    "upload_id": "YIRtcD9sQZymSmtZCw6I6g",
+    "mainfile": "02864/02864.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "51HHs8QZSufwAnv1ErM-L0-nlpnR",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11483.LDA.tddft.16044-17189/16862/16862.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "_bGhy3TLVqrrA6jQCJIFCwkIJpmp",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/17559/17559.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ZC8FeDItDTFxIiDuWLkR43fPXjmm",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/15900/15900.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "P7YoPxot4NZFHHlsVa9yKSPlsTvs",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11481.LDA.tddft.13752-14897/14048/14048.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "EvQPKay8GEtFm73rO0v7Sce1GKna",
+    "upload_id": "Gi1MKu7LS42KwnDeFXL5Hg",
+    "mainfile": "55758.PBE0.gs.tddft.1500-3000/01849/01849.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "iotIE0jSwWTiz5RnJ1hoRJPak92d",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/01493/01493.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "usGLaoT394fdpxCM65cEznYURjOO",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/12456/12456.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "t9YFFeSUnhELBq8ihyqtEaMHGi-k",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "19014/19014.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "WyV0DdHwwq4ZwgoIcJxg8Oh1ygS_",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/16259/16259.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "aUm2t2tZsJ-6xHewnF7wbshOSlYe",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/18614/18614.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "38-IcBjJcdshNrATQy2JinRoVo9z",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/20019/20019.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "C3nBeBHQ1L19V4Q_a4XFfaMY0nVb",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11483.LDA.tddft.16044-17189/16748/16748.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Y2u_BBPV_bpGPrkN3t4Z8GoVhbLG",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_partial_surface_termination/1-2-3tet/oh/1-2-3tet_C-Si_oh_3/pbe0/scf_pbe0_1-2-3tet_oh.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "xsElyEsTDlSOgQuhSDkdaxzMP8wZ",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/18741/18741.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "BCW1GsgNChfZoopfMCw4cSWBoi1i",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/14378/14378.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "z-ZSoicBmeBpsgBYApSgo72Bfd6T",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11475.LDA.tddft.6876-8021/07051/07051.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "_LGxobAzFfJ6cjvhb7bTpbBr90Fu",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "19153/19153.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "9evGaw7iTlreeM7wam5PAhk3LKkS",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/03292/03292.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "PUGiJCqRuAroWfSQKagQAICGyrPh",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/00725/00725.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "NfmbYjT862yGCHRQyaT-BUuw2SHY",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/03865/03865.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "TAlRsPimuFIeTaIOF2EuPVl4LmZA",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/05234/05234.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "LLgDuV4YIuKINOtHgjFA1o4LAQ4u",
+    "upload_id": "CgH_YG0xR3Cjmor4---43g",
+    "mainfile": "Chapter_5/C5_gasphase/stil2dpes/170/output180.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "RxK9lD_nNw6PpuvnhIZdC40hHFED",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/11578/11578.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "SH1GrhZYVvEKp9mLIqMydXRcR1Vb",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/11990/11990.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "1T9maBO28oSB1CfXM272DTXsmKoY",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/17669/17669.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "orNx3bxVa9Ana-YnouiRSAZglB65",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11479.LDA.tddft.11460-12605/11882/11882.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "cWZJtf5ml9fg_RDH4Ft4jV3HsabC",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11476.LDA.tddft.8022-9167/09021/09021.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "rB8AHZqXGWdNSPjBWL4eUy-0xNTP",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11478.LDA.tddft.10314-11459/10988/10988.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "AbDrZ1-R7p4rIXloJmf4WCj-PYLA",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/20845/20845.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "DMHkrVHmYZUUACDKkGFfjHQmDymA",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "13388/13388.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "bdGY7cNOjN49LmjDENun00wOwPS6",
+    "upload_id": "1YtjcQzAQMqmNV-vny5X3g",
+    "mainfile": "55760.PBE0.gs.tddft.5350-7697/06521/06521.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "E7hHv2PSkkouZPLoIkhLNB0PBKIX",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/04663/04663.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "oLAlSbp-qmeYHS4D-fyyya5ZxWNm",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/17011/17011.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "S79d8o3zdn1H1tfFJCEaVCcA4UCH",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11480.LDA.tddft.12606-13751/13299/13299.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "vr7tGvvJ2yi5ZiuoUmSuNGmZiUNP",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "16657/16657.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "6pIxUKF96R4_RFVvE8xGMRaeJpqJ",
+    "upload_id": "Gi1MKu7LS42KwnDeFXL5Hg",
+    "mainfile": "55758.PBE0.gs.tddft.1500-3000/02007/02007.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "MnNU6R82jHdW73B4K0eG58EpBg5_",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HID-CO_Zn2+/ACE-HID-CO_Zn2+.aims/ACE-HID-CO_Zn2+.062.aims/energies/ORCA_RI-MP2_def2-SVP_PeptideOnly/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Rjqsq6y_U-GXedyvx1lLu0KVonBK",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11483.LDA.tddft.16044-17189/16166/16166.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "hWdQoBAOCt0AcRNCEzfqQ8pDe5iM",
+    "upload_id": "8R3qo6DCS8ir-df3RbEXDA",
+    "mainfile": "55761.PBE0.gs.tddft.7699-10046/09329/09329.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ZKi8c5FY9fl_QKbdk4vHXn2-MpRf",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "09429/09429.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "3z5uxzfH92NUoaZZGVQQ2WC_66ca",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/16480/16480.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "1tLjYQhbe1MqMP4s4VqObSfjemGc",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/16994/16994.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Nj2x-gUrqgafJhrTYynERRC0Vmxt",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "10064/10064.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "vpAIn6irdsaK-E5_fgKK9_VPXXoZ",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/05408/05408.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "98BPADybx7VDaOip3IN-gY4rp73k",
+    "upload_id": "wodJosSgQMCO8TI09iKTBA",
+    "mainfile": "55757.PBE0.gs.tddft.0-1500/00921/00921.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "5MrK1wQDADFXUApT2G8iN5ebZRy3",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11485.LDA.tddft.18336-19481/19033/19033.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "8oBpi0ANDPBcNXaL3DvTfH9MArHD",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/00047/00047.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "3Sfmk2e2Rsfl7d-_fCYROJl11aYu",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11481.LDA.tddft.13752-14897/14465/14465.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "_SlViNpWi0P5NOLYep6Tmu6hxtGI",
+    "upload_id": "Gi1MKu7LS42KwnDeFXL5Hg",
+    "mainfile": "55758.PBE0.gs.tddft.1500-3000/02877/02877.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "X-xQb3MFPNvlpgWuhorrvznyiiEx",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/20883/20883.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "AvNQhJbXlnNcbY7sDZGb9v6RyGI9",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/17224/17224.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "bFFDxRbzE7Z6L4oNP4xpwYFoVIVx",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "19742/19742.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Iz-geKQpibHkY-p5fK8CrUY_YDiX",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "12374/12374.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "8k5i9zIiHo9g1gYNiSDDQn0EAm1l",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HID-COH_Zn2+/ACE-HID-COH_Zn2+.aims/ACE-HID-COH_Zn2+.306.aims/energies/ORCA_DLPNO-CCSD(T)_def2-TZVPP_PeptideGhost/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "wIt1Tgu_wB-gGScxD34IjmPteaQv",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/20382/20382.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "67tGTqORBXcqu5sqXJbdST4sOhet",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HIE-CO/ACE-HIE-CO.aims/ACE-HIE-CO.020.aims/energies/ORCA_M06-L_def2-QZVPP/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "s2N7THNLfZrrO6tcd0WDWC3wePki",
+    "upload_id": "63kvAqQgTPGvmTnZ669Z-g",
+    "mainfile": "55764.PBE0.gs.tddft.12395-14743/13937/13937.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "jFrJO5QYL7SFxug2Luiw6KIYevDu",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/05376/05376.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "pTh8LNFMsZNJRI47a3rELBLju_dL",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11481.LDA.tddft.13752-14897/13985/13985.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "o79CwOr5cNnA_27asHo5WglZOi9Z",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11480.LDA.tddft.12606-13751/13174/13174.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "YHiIajXl6H-2dnumW-8yODZHYXbw",
+    "upload_id": "63kvAqQgTPGvmTnZ669Z-g",
+    "mainfile": "55764.PBE0.gs.tddft.12395-14743/13305/13305.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "EDH4OU24u0Mx0aMoLrX8Uc1HqYw2",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "16423/16423.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "IroTSau4U6NxJFzggzebW8we_vjW",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11480.LDA.tddft.12606-13751/13344/13344.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "aT212AgQvdHD5f1tf6dEMVFc57vz",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/03160/03160.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "y_eQKMTLJiwK-NF5uYv75WZPbpfs",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/15912/15912.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "nzhOPvKNYPFTueRxJ_-PZ_4PVH6L",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "08385/08385.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "gjmxGaNxHy9HSwUYkG4y1ktC3cvR",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/21394/21394.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "t7wBl4-j_LxvbIw5UN0Of_Pyn1PK",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/12308/12308.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "DhnQRhFPtXzb97aD5JI5cJtb9bar",
+    "upload_id": "63kvAqQgTPGvmTnZ669Z-g",
+    "mainfile": "55764.PBE0.gs.tddft.12395-14743/12843/12843.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "D6tjSszaBmQz8DXtExuoVq45E-yk",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/02311/02311.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "A80CsPB83gbleMtg6GB3IHWJHteT",
+    "upload_id": "1uZ4lWNEQ9udQaeip84cPA",
+    "mainfile": "11472.LDA.tddft.3438-4583/03558/03558.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "8xR9gA56x7HDV_CAOSTv-J_ZwO6B",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/15981/15981.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "FVMICGvzYURnLlxfkrROVsfcPzWb",
+    "upload_id": "weSM5NsUS1mQT0CKCqxlcw",
+    "mainfile": "11473.LDA.tddft.4584-5729/04827/04827.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "5t8nLpFP7BuGq7wUK6IN0QiN7YE-",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11479.LDA.tddft.11460-12605/12385/12385.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "vekXiM297X-TAK45_QeWtir-oQDb",
+    "upload_id": "8R3qo6DCS8ir-df3RbEXDA",
+    "mainfile": "55761.PBE0.gs.tddft.7699-10046/09724/09724.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "KS5UAIFoV_0IbhPXZQzh2-mHPaUg",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "13316/13316.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "RlKhErwSPoj95UzGcGk0fsuzwWPr",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HIP-CO_Zn2+/ACE-HIP-CO_Zn2+.aims/ACE-HIP-CO_Zn2+.055.aims/energies/ORCA_CCSD(T)_def2-SVP_PeptideGhost/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "zi9yYY6tLlLInHYNrP0USiadTS7_",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "20690/20690.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "VAZNjw9HEXGEwnHFiLf0Q2z1YBAr",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "16830/16830.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "wQLSCV01KS4EIPvIE9r5dElwmQu6",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/05254/05254.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "WPl9pwv_55Z2uAaOnnkBLyB1qvVf",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/06039/06039.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Dg7iUFN6aaM72-rO1QrQStBFzRHT",
+    "upload_id": "weSM5NsUS1mQT0CKCqxlcw",
+    "mainfile": "11473.LDA.tddft.4584-5729/05433/05433.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Fa64hGDEBj_GA07nJUizf2FsVWPj",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/01606/01606.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "bBreAIymvyi3d8T5t-98xr9eGz99",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/05884/05884.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "_21SL3s_72OI89UQ6Yn6iU5jgc7X",
+    "upload_id": "g7hniWphQmmzLyaH9TortQ",
+    "mainfile": "00888/00888.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "lK4B_bAKzTmEMAfEbWX-Ohcjt4t7",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HID-COH/ACE-HID-COH.aims/ACE-HID-COH.037.aims/energies/ORCA_DLPNO-CCSD(T)_def2-QZVPP/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ypwnr-kR27bluAjNWvXoi0Pavp__",
+    "upload_id": "v2p66Xi4SwenPOv8WvOvAA",
+    "mainfile": "55767.PBE0.gs.tddft.19439-21785/19664/19664.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "uYaEM3CqvItrS0-scz3SWk4ISRUE",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11479.LDA.tddft.11460-12605/12021/12021.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "AvPoYk7Zm7dtLQmaZSiaBJICsIZ9",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/10912/10912.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "syU-8zhaElpr4guh9m-xtpU5-lXW",
+    "upload_id": "63kvAqQgTPGvmTnZ669Z-g",
+    "mainfile": "55764.PBE0.gs.tddft.12395-14743/14255/14255.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "fSULJCo8Bwt8rsDZ5nQNKZa04VLL",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/00757/00757.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "y_9sQYAG1-F2-PbgA5vIAxxC4xc3",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/di/oh/di_P-B_oh_2/pbe0/scf_pbe0_di_oh.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "g9NjZwO6hq4LZY15-tWq0VUqfDf7",
+    "upload_id": "iBz6W-MjQc6cl3ir_-sekw",
+    "mainfile": "05859/05859.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "xMiE74msCX-oh_2EbQK7V0UJ-UMF",
+    "upload_id": "1YtjcQzAQMqmNV-vny5X3g",
+    "mainfile": "55760.PBE0.gs.tddft.5350-7697/05849/05849.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "RlGYU4gyRWnqJwM8TClZ_sXDNpQk",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11477.LDA.tddft.9168-10313/10219/10219.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "K-IU1Q0RO9ks-WBppub65Xl-Z4T9",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "18071/18071.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "xBUSH8HRyHrIFWgBy_N_pQZ6qlWu",
+    "upload_id": "iBz6W-MjQc6cl3ir_-sekw",
+    "mainfile": "06764/06764.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "UN0UTXE_JH9vDrQIKrg-4fMdHn9I",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "09049/09049.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "OyR3a_U7u-ip5wtemSqy-hDAV-M8",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "17842/17842.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "2XQwltVr7o3diWcoYT67xp8DxBsr",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11479.LDA.tddft.11460-12605/11904/11904.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "UQP3Lwy-r7xNfLJSWp1XQDs27bos",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11484.LDA.tddft.17190-18335/17759/17759.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "F_9uAz9K2F8i9MX74c8Epj4pyLPr",
+    "upload_id": "Gi1MKu7LS42KwnDeFXL5Hg",
+    "mainfile": "55758.PBE0.gs.tddft.1500-3000/02589/02589.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "MIBJKhpT4WyMJ8zRoQJ-feZtVC6B",
+    "upload_id": "1YtjcQzAQMqmNV-vny5X3g",
+    "mainfile": "55760.PBE0.gs.tddft.5350-7697/05568/05568.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Iw-hHYjXoEOpFUnxLr24o0sPNF7K",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "20384/20384.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "gGtGy4ko3QnR5hIbgIyjQdk-s0vy",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/11852/11852.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "WkXr3M16RhOHNzM2sLbFlrK3x-Be",
+    "upload_id": "63kvAqQgTPGvmTnZ669Z-g",
+    "mainfile": "55764.PBE0.gs.tddft.12395-14743/12569/12569.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "7aWmuvB7ULGUX8xcIfLgzVt0HMuu",
+    "upload_id": "weSM5NsUS1mQT0CKCqxlcw",
+    "mainfile": "11473.LDA.tddft.4584-5729/05139/05139.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "rETh2gpPRffLlhabSFRFG3dzjRkH",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "16087/16087.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "sBCuikyb8uA5vNz2OrJV6DAWbUrm",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HIE-COH_Zn2+/ACE-HIE-COH_Zn2+.aims/ACE-HIE-COH_Zn2+.009.aims/energies/ORCA_DLPNO-CCSD(T)_def2-TZVPP_ZnGhost/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "gKKm8m_elrSUZYyZx1IhjFm20VAL",
+    "upload_id": "iBz6W-MjQc6cl3ir_-sekw",
+    "mainfile": "06031/06031.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "uuIChUfIR3kFEsPTaO27JzHWeyjw",
+    "upload_id": "g7hniWphQmmzLyaH9TortQ",
+    "mainfile": "00776/00776.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "c1SSdOXxrAMMfEchokS6pJ_0xzq4",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/18221/18221.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "cUgOKlwDep7vAUhby1JasRy2uSjm",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11476.LDA.tddft.8022-9167/08337/08337.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "2As-15qJ8aIxU1-BWH1Ai1xTB2t0",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HIE-CO/ACE-HIE-CO.aims/ACE-HIE-CO.008.aims/energies/ORCA_RI-MP2_def2-TZVPP/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "6Lk0r6qqQbP8fzzcz0AWdOdMAXj7",
+    "upload_id": "NjF1HlQOQuOlN1NGximQ2A",
+    "mainfile": "55763.PBE0.gs.tddft.10047-12394/10171/10171.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Kd-sZKDqUy0D1hS823oaPsXx7d2l",
+    "upload_id": "v2p66Xi4SwenPOv8WvOvAA",
+    "mainfile": "55767.PBE0.gs.tddft.19439-21785/20952/20952.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "hPNVoqHDCi9UZRy9xAgCU1x5Pg-o",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/10085/10085.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "OUWYx07q5nF8vtS908hecCHIc8up",
+    "upload_id": "iBz6W-MjQc6cl3ir_-sekw",
+    "mainfile": "06252/06252.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "oCumVd-5pc_QRARI7h6x0Ya-0s3a",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HIE-COH/ACE-HIE-COH.aims/ACE-HIE-COH.059.aims/energies/ORCA_CCSD(T)_def2-SVP/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "JjtBEsry41C5ID0Si6MQgL_2wCRp",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/14613/14613.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "BWMoFmqBm4M9Z0uISLHLHQTipelJ",
+    "upload_id": "63kvAqQgTPGvmTnZ669Z-g",
+    "mainfile": "55764.PBE0.gs.tddft.12395-14743/13747/13747.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "BvsWkkQLxIZpBdGfpQFJoB3S8pWo",
+    "upload_id": "NjF1HlQOQuOlN1NGximQ2A",
+    "mainfile": "55763.PBE0.gs.tddft.10047-12394/11471/11471.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "JGZaVks_qoeDQDyK9Tc1jAvQ5CU7",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/17908/17908.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "fC-n3PKbQYzvzON76CTdzQYGhuIi",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11480.LDA.tddft.12606-13751/13069/13069.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "4i9ByF_ZmxdMtTD8TH63iabRp_6K",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/19098/19098.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "WXz2vEubP5IJ4l8xjONCt9BCfwd7",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/17596/17596.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "pWiEYm-5BzbhqrNVJC_L95kyP3qm",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11487.LDA.tddft.20628-21785/21224/21224.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "FAMfldCK9olWqly6UHDDbE-o4T0q",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "11536/11536.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "XHomAKjYx9KdE5g6f-aaQfO9IKdO",
+    "upload_id": "YIRtcD9sQZymSmtZCw6I6g",
+    "mainfile": "00602/00602.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "JIIqD7-IhxQapB9RTnXOmAelMqY_",
+    "upload_id": "WVgL_mMMRaarC9VJ2Qg59Q",
+    "mainfile": "26-2-2021/11-i1-u4/output",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "0ezHgLJoQbUo0tfoSfMz8RFSQeGK",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "21345/21345.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "JAH9h6hT4YkBcEGFct2jhkRMrl17",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "12006/12006.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "7HEIMi0Uc_BBnvFdiMNzjSywNQXN",
+    "upload_id": "YIRtcD9sQZymSmtZCw6I6g",
+    "mainfile": "01318/01318.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "B2ZRDiqoT8648URcgtscPN1Px6KP",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11475.LDA.tddft.6876-8021/07327/07327.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "OzmrKhmmqSVHBGdOAAeH62pTvmry",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "16011/16011.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "VgLFcAvbJwCePzZrzrNZLLEg1HLh",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/17938/17938.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "bXKuzT7k-0SNur5TJlvUBTLez1PP",
+    "upload_id": "1YtjcQzAQMqmNV-vny5X3g",
+    "mainfile": "55760.PBE0.gs.tddft.5350-7697/05772/05772.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "cIK1jKCZDN90sTMh8oRpQymRe4K7",
+    "upload_id": "1uZ4lWNEQ9udQaeip84cPA",
+    "mainfile": "11472.LDA.tddft.3438-4583/04362/04362.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "djQfhAtP5EkmVoqjaP_2s7OObHHr",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/02570/02570.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "EtH6ABQBcIHLXag4Ekuedt-AMPUQ",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11476.LDA.tddft.8022-9167/08069/08069.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "fSl4DcRHMGc0kiDeU8pPdcXTxKC8",
+    "upload_id": "iBz6W-MjQc6cl3ir_-sekw",
+    "mainfile": "05803/05803.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "-ziN2nM9_jHtF5AkFSRROznBVBav",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11487.LDA.tddft.20628-21785/21229/21229.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "VaSIcCr_1ks-L1Ky1miSYw3gHxZm",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "17487/17487.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "FRte4mEqFCCxKDmVH_uCpbwmHU59",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/05849/05849.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "rNOCh4BCasRtnckKcQ_hTvVbqVVO",
+    "upload_id": "L5oIyR_UTIWdFv_QN18myw",
+    "mainfile": "03188/03188.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "AnZxiOhIV1dLSvQoHrk0-Q0pT_CW",
+    "upload_id": "63kvAqQgTPGvmTnZ669Z-g",
+    "mainfile": "55764.PBE0.gs.tddft.12395-14743/12909/12909.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "mcUK5GeEvw48LXhTFEqJLzYsDwPO",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "21354/21354.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "7tfuLAN-j_WBp56xOr6ZsmhT3D8Q",
+    "upload_id": "Gi1MKu7LS42KwnDeFXL5Hg",
+    "mainfile": "55758.PBE0.gs.tddft.1500-3000/01829/01829.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "uj_Sh3ePbngxu4Ama8pnv3vuqu6D",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/04934/04934.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "V3DHAbiMVyoQ3A-i4JHcmf9kui0Y",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/19397/19397.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "HNh1h5bFXjajlwxzpaYdWPu-G2un",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/14922/14922.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "0ODarvyPVKUbDOsiH16pmwQSs14c",
+    "upload_id": "YIRtcD9sQZymSmtZCw6I6g",
+    "mainfile": "01909/01909.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "czO_XdHHnfteybhQk3yp4E5lV-pE",
+    "upload_id": "YIRtcD9sQZymSmtZCw6I6g",
+    "mainfile": "00773/00773.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "pcSEHr-w1eZJG_8qlxp2BCriNlOj",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/15034/15034.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "aJAdv9ZZyHA4Vif8MtfCNt0WsHya",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "10880/10880.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "LNKnUjDRglNpVNDZu-hu8Iw15ixg",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "16202/16202.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "SAlvwL22QQdYeEAydmET91k4uCjy",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "12920/12920.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "z_9yiVLbmAXXvSPQHqf7-bR8U2jE",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11486.LDA.tddft.19482-20627/20327/20327.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "rAjJG7JEcMkzGywval3KyAJ6RZGO",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/19602/19602.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "AoSF7T1t6EI4nT5sCLz5MEhr8DTa",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/17360/17360.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "HVViPstsF7R5Yw64B2-Xow6MDNX2",
+    "upload_id": "fJTu6Ui_S_G4VRhHd9tVeA",
+    "mainfile": "6-i2-u6-anti/output",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "2oVvUpijtNvJfBkT6GwvAGc70xI0",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/1212pent/h/1212pent_C-B_h_3/pbe0/scf_pbe0_1212pent_h.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "UtkIykZsPXWYucpUJxniQ-Vx8u2j",
+    "upload_id": "L5oIyR_UTIWdFv_QN18myw",
+    "mainfile": "02306/02306.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "2tMtP5aN2OsAmjb9zeMUhKkqAL80",
+    "upload_id": "Nnkd1NFSQ42Fo0f_hnxqTA",
+    "mainfile": "Disphosphene complex/Mo/back/mo10v3.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "7RcJgkKA4eoGnfnOphT3LrplZ52a",
+    "upload_id": "63kvAqQgTPGvmTnZ669Z-g",
+    "mainfile": "55764.PBE0.gs.tddft.12395-14743/12984/12984.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "qkqEIYHcbJreYqhR-hU6ytGaXZyk",
+    "upload_id": "Gi1MKu7LS42KwnDeFXL5Hg",
+    "mainfile": "55758.PBE0.gs.tddft.1500-3000/02816/02816.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "hgU6Tk3o5Fc-PjdWyMr24vl6qeLA",
+    "upload_id": "wodJosSgQMCO8TI09iKTBA",
+    "mainfile": "55757.PBE0.gs.tddft.0-1500/01183/01183.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "9v-tsCB2TmmCS7pk0ZM-vl3D8lZd",
+    "upload_id": "1uZ4lWNEQ9udQaeip84cPA",
+    "mainfile": "11472.LDA.tddft.3438-4583/04438/04438.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "06Pgg_rhGY2Xvl_yCodfotayW9o3",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11483.LDA.tddft.16044-17189/16307/16307.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Gj9mDd1nPl_5XMKqlxW13b1mRpL0",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HIE-COH_Zn2+/ACE-HIE-COH_Zn2+.aims/ACE-HIE-COH_Zn2+.009.aims/energies/ORCA_CCSD(T)_def2-SVP_PeptideGhost/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "KJVMZTbITAnNeEoALC3zi8nY9zim",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "09820/09820.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "kpBBKmnI7kaKh1StEN_4XGMOEgEu",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11478.LDA.tddft.10314-11459/11014/11014.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "suFm8q2zWj1i4z6y6s1AK58Z2pd5",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/01986/01986.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "J3cQnv7brlT3ErOcKoDAhFySX-5p",
+    "upload_id": "8R3qo6DCS8ir-df3RbEXDA",
+    "mainfile": "55761.PBE0.gs.tddft.7699-10046/09005/09005.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "bflPkmpAB33UUKtie-IRDCN0euV2",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/17220/17220.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "_MoBm2ul2u9M76IZu3VPZFMvXeaP",
+    "upload_id": "NjF1HlQOQuOlN1NGximQ2A",
+    "mainfile": "55763.PBE0.gs.tddft.10047-12394/11470/11470.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "udpNVQMVgXqdNAj2ZIVjh0XHsXzF",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "09793/09793.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "TG_yCF4kh4o9vSk44ZlHkNbFvFsH",
+    "upload_id": "YIRtcD9sQZymSmtZCw6I6g",
+    "mainfile": "02040/02040.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "RaP_3DQHtnGkaAqUn81CHhOzG2iO",
+    "upload_id": "v2p66Xi4SwenPOv8WvOvAA",
+    "mainfile": "55767.PBE0.gs.tddft.19439-21785/20741/20741.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "mWmGrPL4ujVzU1hlk8j87RpWILS5",
+    "upload_id": "Gi1MKu7LS42KwnDeFXL5Hg",
+    "mainfile": "55758.PBE0.gs.tddft.1500-3000/01693/01693.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "UWR9ZKPIgNHazUWsH1ZMXMtM9XEb",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "09201/09201.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "FLLpsBHP4Z3d6_exbimYFyJQySNU",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/20750/20750.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "T6d_gBc_t4H34OU2GTBIjqLlW50D",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/00412/00412.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "rifgAbd7jwAweerqW2TnZcBAYoU7",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_partial_surface_termination/di/f/di_N-B_f_1/pbe0/scf_pbe0_di_f.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "yBjS8XTmEVds3ohqu5AvKynv7e2P",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "20174/20174.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "9Ta4AEstNodaQDXDQy6fa4y3qu6V",
+    "upload_id": "8R3qo6DCS8ir-df3RbEXDA",
+    "mainfile": "55761.PBE0.gs.tddft.7699-10046/08582/08582.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "C6g1xiOIBQo2NjBK48GCCRHIhSRx",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/16927/16927.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Xn0pNdc7NF0mmy9x3TuZDOkSeRGX",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/13384/13384.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "h8XzRkGHufBVOyAbhAqGWj6mjSry",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "11821/11821.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "f8_OUyYJ1Uu0Xy8os_OtcM6q13hC",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/18449/18449.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "_Nmv6irQAfVqkN5o1Otz-ansyIIP",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "17349/17349.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "pjglnWhRtxVmVC0biYkqPT0XEtFM",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11478.LDA.tddft.10314-11459/11051/11051.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "XO1J2pALu5Et25OIGRf_728A9Rf4",
+    "upload_id": "1YtjcQzAQMqmNV-vny5X3g",
+    "mainfile": "55760.PBE0.gs.tddft.5350-7697/05547/05547.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "EEGOQy9NIEk3ZD6LEwiZWVzUfWsy",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "16198/16198.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "XxnMwb_PfX50214CESmY9pLpkoK5",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HIE-CO/ACE-HIE-CO.aims/ACE-HIE-CO.002.aims/energies/ORCA_CCSD(T)_def2-SVP/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ASCGNeTCtZEXowzlcYPP06qjwj1D",
+    "upload_id": "Gi1MKu7LS42KwnDeFXL5Hg",
+    "mainfile": "55758.PBE0.gs.tddft.1500-3000/02535/02535.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "9cUs3NzMstTovU0nUSlpTiFIgNCT",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "21680/21680.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Mpp-eRVS897cGBR36MITXYZS2qfM",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "21604/21604.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "tvtFKw5g5IhTU_IsER8iQsTlKYxM",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11486.LDA.tddft.19482-20627/20590/20590.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Qs7t4Ky91tDsmIFIKtHG7EBJU5RA",
+    "upload_id": "wodJosSgQMCO8TI09iKTBA",
+    "mainfile": "55757.PBE0.gs.tddft.0-1500/00297/00297.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "2PO26FQk57fWSlpanTYUcE9LXqmQ",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "12148/12148.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "eSUKQ3-iu6fwYpPHd9hTaATJVLCa",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HID-CO/ACE-HID-CO.aims/ACE-HID-CO.018.aims/energies/ORCA_M06-2X+D3_def2-QZVPP/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "1ZFHEBiUtqQDFAJdFAAca3lUv5xD",
+    "upload_id": "iBz6W-MjQc6cl3ir_-sekw",
+    "mainfile": "06554/06554.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "bgY3Ujj4_rRAGHaqO9I7HoWA6LX5",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11486.LDA.tddft.19482-20627/20098/20098.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Kz3WLwPHfIoqyIntY1ZljPYTZbcf",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/10140/10140.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "V6P_MoEtFcbJhjheeO1eD_a2z31k",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/11351/11351.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "8isiYvZd84eoundTfcNb66oGB_89",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11478.LDA.tddft.10314-11459/11326/11326.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "RaRbt8TC9wi2z8H82G2bkgs1_9QV",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/06108/06108.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "daRUHe4ZfIDjeS9is5mbsjjhC934",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "21307/21307.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "nrvoBxSJFfawrMDKiwodV2LgHdJZ",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/12113/12113.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "N8oHHgY2qiyOAGpgkfaS7ZbkDooD",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11481.LDA.tddft.13752-14897/14116/14116.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "V9tYVGL_kibaedus0D98N_znjk9g",
+    "upload_id": "8R3qo6DCS8ir-df3RbEXDA",
+    "mainfile": "55761.PBE0.gs.tddft.7699-10046/09943/09943.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "rHjRQc40vlRBb9s6oVA_qYaw-XTf",
+    "upload_id": "v2p66Xi4SwenPOv8WvOvAA",
+    "mainfile": "55767.PBE0.gs.tddft.19439-21785/19624/19624.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "-n3vfHGELtWnnlJ57G2m7unQsH_R",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11483.LDA.tddft.16044-17189/16332/16332.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "PMvzbe1qOEi5FXmPffcAEmmrTi6v",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HIE-CO_Zn2+/ACE-HIE-CO_Zn2+.aims/ACE-HIE-CO_Zn2+.003.aims/energies/ORCA_CCSD(T)_def2-SVP/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "nfRQOvy_oOx0-V5qva-vl-IHCymn",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/04485/04485.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Np2mW2YixnMkWyxz0BZ5jq7CXurF",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "14409/14409.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "NlUFb-1LIKk5dj342a4gGFc3Vfh5",
+    "upload_id": "g7hniWphQmmzLyaH9TortQ",
+    "mainfile": "00412/00412.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "sNzI5Q_QaFsSd72alcmcqZnFFjLS",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11483.LDA.tddft.16044-17189/16796/16796.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Y1Al8DOVXOINNWzh7YKtvZPf0-Lt",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11479.LDA.tddft.11460-12605/11992/11992.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "IHF4aMxtLt3aE90Ar6b7Rv5VbrSI",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/ad/h/ad_N-N_h_3/pbe0/scf_pbe0_ad_h.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "OXaEeZ94rVdYZOgl_gwytIrY8PnG",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11476.LDA.tddft.8022-9167/08716/08716.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "RGEAR4hUoWKKnCpsVPy9cjWIPkWy",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HIP-CO_Zn2+/ACE-HIP-CO_Zn2+.aims/ACE-HIP-CO_Zn2+.020.aims/energies/ORCA_M06_def2-QZVPP/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "4h-TVbm4kudKzIslF27kiQ7oIwE7",
+    "upload_id": "weSM5NsUS1mQT0CKCqxlcw",
+    "mainfile": "11473.LDA.tddft.4584-5729/04685/04685.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "4s6hXCHaOr2mWYcPe_K51-sJkNPO",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "11382/11382.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "D-WJBH6bcF0yzGYghYVJMVrkzsh7",
+    "upload_id": "NjF1HlQOQuOlN1NGximQ2A",
+    "mainfile": "55763.PBE0.gs.tddft.10047-12394/10097/10097.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "6NxeeSKfkT8yoNRX_LKMsoKV2AyP",
+    "upload_id": "1uZ4lWNEQ9udQaeip84cPA",
+    "mainfile": "11472.LDA.tddft.3438-4583/04368/04368.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "cl6_LAaBr_WeWD4GsctoZO-GUDv0",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11477.LDA.tddft.9168-10313/09491/09491.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "7RIC22GSBPMXVafLfrBhC7N_l_jQ",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "20369/20369.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Fe38cNaG6YGVFRV-VxwQqgFWTjMy",
+    "upload_id": "Gi1MKu7LS42KwnDeFXL5Hg",
+    "mainfile": "55758.PBE0.gs.tddft.1500-3000/02083/02083.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "a-QPl-oaYA26_rT_z2jxejgHfBkb",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/15343/15343.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "y1C-w7RbEADwNZlCEWLMjES7Ra0w",
+    "upload_id": "YIRtcD9sQZymSmtZCw6I6g",
+    "mainfile": "01089/01089.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "1JycNG_hWT7fI6RHBaG64ZX1QO6y",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/14324/14324.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "2W35P9X--_crWpMnMHfQ2wbnzWas",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/14602/14602.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "wPGpiOnQNb8xGCLikENOq-IvCK-C",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11479.LDA.tddft.11460-12605/12604/12604.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "wRNeYftvncEDqf6oHi6SuAc5I2if",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/15072/15072.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "BRtKyPw8E3FOL2qRFL0Apnx66wUB",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/13838/13838.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "kDNRYkmXLIFqmKSi4HXwy9EMoE0t",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HID-COH/ACE-HID-COH.aims/ACE-HID-COH.088.aims/energies/ORCA_M06-L_def2-QZVPP/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "9QOvlIVGFUUpz4wW-GC0oSqDU5we",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "20524/20524.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "QBz1gpN-rS3R_K5XKLRQkeNWIQ3L",
+    "upload_id": "weSM5NsUS1mQT0CKCqxlcw",
+    "mainfile": "11473.LDA.tddft.4584-5729/04666/04666.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "AQrpbCG2AQXmV9QjadFi7IVM7hY0",
+    "upload_id": "1YtjcQzAQMqmNV-vny5X3g",
+    "mainfile": "55760.PBE0.gs.tddft.5350-7697/06980/06980.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "EjDnunAUUDJ4lXRnts1Lsg8h0iCz",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/16821/16821.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "3CiAy3vMKXYveLsw03ucX2CMyIAd",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "10867/10867.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Nedm9I2C6LUUm4VklMT3ilaUXzCj",
+    "upload_id": "63kvAqQgTPGvmTnZ669Z-g",
+    "mainfile": "55764.PBE0.gs.tddft.12395-14743/14158/14158.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "w1IH3dPVb_9fZoSJyZNbdFzxgRys",
+    "upload_id": "NjF1HlQOQuOlN1NGximQ2A",
+    "mainfile": "55763.PBE0.gs.tddft.10047-12394/11639/11639.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "mS5ksrtW266OjVRrAtP4V1vI4Q65",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "08457/08457.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "iNNfUgALNaDBRwLFoISWHJ4ay2dk",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11481.LDA.tddft.13752-14897/13861/13861.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "arkJOt7bnm5MxPYg8fr4VG5_XgB7",
+    "upload_id": "v2p66Xi4SwenPOv8WvOvAA",
+    "mainfile": "55767.PBE0.gs.tddft.19439-21785/21126/21126.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "O5mN9J6HO9_BgeDW-MZ8AJN_TNAn",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11483.LDA.tddft.16044-17189/16867/16867.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "pH4AWq5Ft7AfbIsUBDIzq2vChSDz",
+    "upload_id": "1YtjcQzAQMqmNV-vny5X3g",
+    "mainfile": "55760.PBE0.gs.tddft.5350-7697/06149/06149.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "3ehNeqrJaUGoHay26E4h04WvWZTM",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/04009/04009.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Z7h1MFFrf5sgf13nUpY_xyqWrg1w",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/02772/02772.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "-2EwNl0SLPFvm5PPUNzTsZ8gQExm",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/17806/17806.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "tASxb33EFXwMvlxhV87zTaWkfejr",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "20378/20378.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "b83_IfjUmhcVMCZmrjj8LjRjZ8RR",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "11326/11326.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Nr2uvop28KbfNlr53mqRlElwUU8X",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/12901/12901.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "sJ0dIoSgloPMvJyVklSsccFq3E31",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11480.LDA.tddft.12606-13751/13510/13510.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "_Ujt3h4s9bsjympUpKHZIEyLrIYi",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11486.LDA.tddft.19482-20627/19980/19980.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "NVBWyDylpgdSMV_8N_OLhzFR47Av",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/01148/01148.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "KZuKkeNFCqCb5tr0XBbfCrnKGa5W",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "09817/09817.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "kM80zp_Pf-y1rv-ckfqKow9xSLdk",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/15738/15738.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "EbNhflUISYf3uTEr4wGh-AS0wS2X",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/03331/03331.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "YgMCp4hsnUZ48-hdi7QtlDCxVBGV",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/16509/16509.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ZUug8gqe7Al1q1d3plcArWp2XUQO",
+    "upload_id": "Gi1MKu7LS42KwnDeFXL5Hg",
+    "mainfile": "55758.PBE0.gs.tddft.1500-3000/01536/01536.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "PLA1dU_2s7Vpp6-Q21DhhvBMRT-X",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HID-COH/ACE-HID-COH.aims/ACE-HID-COH.094.aims/energies/ORCA_CCSD(T)_def2-SVP/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "egeX4H5jXSz0AoGlNwf8e0fPKNUv",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/11420/11420.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "iZgYrZlycPOUamMhXdFEoi65H_cS",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/02308/02308.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "7YgVPP9J0JOiJoTnzAPbNXuk1hIp",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/03320/03320.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "R1YoebS_IrKX7lt5aPS1F02V7HBV",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/03774/03774.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "_turQo8jtwp8fkkwtnd-z2Tp2M1F",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/15692/15692.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "QnxRGBnGpDHKppUNfKlLd9AIjXuP",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/17911/17911.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "NcAp2GrF-HWbEXkn0kx7Uq74QZUZ",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/02244/02244.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "30keZ0wWlKXIAGEOJWcF6aZ7js0R",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11480.LDA.tddft.12606-13751/13509/13509.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "r0omADf5xl3tz3WsaUOrpScpaO1f",
+    "upload_id": "YIRtcD9sQZymSmtZCw6I6g",
+    "mainfile": "02517/02517.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "I_batMvR66D8alrv5UTUt3v1wKwZ",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "07864/07864.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "YU39sFPTuqHtFDgOjNVvhZltCyYj",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "13343/13343.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Mu9WeBO7H8IxdNeEUVfO0u0Q8x6Q",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "08627/08627.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "UaC0LJZ-MmXeeUjNgS0a6CnNbLxj",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/12290/12290.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "nuOQUhS6Xpi_o6gOftzzE_NLTSgC",
+    "upload_id": "U8sWMr4-SVSN78oZFhz_DA",
+    "mainfile": "01765/01765.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "gt6PduQ0LdGGpSCkr2W2suiyuRij",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "15108/15108.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "NJhHUQILTzrXMl6zfMNsjTnZUjiY",
+    "upload_id": "1YtjcQzAQMqmNV-vny5X3g",
+    "mainfile": "55760.PBE0.gs.tddft.5350-7697/07465/07465.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Db9Q-J_BHM0KnoMRZPLzbNmFBT4s",
+    "upload_id": "U8sWMr4-SVSN78oZFhz_DA",
+    "mainfile": "02005/02005.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "UL5a-J1pc38bP7ed7elAS91oq3vb",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/19830/19830.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "VL4pail_goUwHvqup9V5-3nVeeOL",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "20429/20429.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "_z_WLlSXXWWqZZhTVTPlGYcKOH1I",
+    "upload_id": "YIRtcD9sQZymSmtZCw6I6g",
+    "mainfile": "00578/00578.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "cVEBzVVX8bCQqBM9jQQNYzKWksK0",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/17848/17848.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "mw27brxBU7hpYst0E1KiErG4FnU-",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/11931/11931.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "aUfwf0nas06M1H8OC6Ld4MiNnBSd",
+    "upload_id": "8R3qo6DCS8ir-df3RbEXDA",
+    "mainfile": "55761.PBE0.gs.tddft.7699-10046/07700/07700.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "faxjPDNBLc2J_4a852Kpi5a1DakD",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HIE-CO_Zn2+/ACE-HIE-CO_Zn2+.aims/ACE-HIE-CO_Zn2+.009.aims/energies/ORCA_DLPNO-CCSD(T)_def2-QZVPP_PeptideOnly/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "e53qqG_05wDFzH0hiVbFXZMxFzqw",
+    "upload_id": "weSM5NsUS1mQT0CKCqxlcw",
+    "mainfile": "11473.LDA.tddft.4584-5729/05405/05405.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "uozddtMO69Yg5p7y-LMelYkvDG5Z",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/15904/15904.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "zNXu95PNwu7fD-pQq5AzrvOdmqbP",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "21739/21739.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "9r6TQ6oaXL4YNccloGwz20afwHnN",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11484.LDA.tddft.17190-18335/17461/17461.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "SrWgC1FqtXKENBQj-k8aG2YI0DeB",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/11719/11719.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "BLW-tdkZb_abH_4GjX4h5_v6a10-",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11478.LDA.tddft.10314-11459/10649/10649.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "fo6lCqGGp2KVwq5BI39kBCbAq00E",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "16405/16405.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "1BCmlsjhHv36qmhRMCK0gjMPl62e",
+    "upload_id": "1YtjcQzAQMqmNV-vny5X3g",
+    "mainfile": "55760.PBE0.gs.tddft.5350-7697/06782/06782.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "aYnyJtzI-xjaxpyHYmZ8U5ljUEwC",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11480.LDA.tddft.12606-13751/12642/12642.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "tLT_IX-_7uDJn5OCKf4w8KHNH80m",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "20414/20414.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "oz3RZDaKMTg8Ztf2v2xx6fGGJ5M6",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "13369/13369.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "bZYSIogcIPVjY6l6WKs1dngJNe4U",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11479.LDA.tddft.11460-12605/12362/12362.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "gygBNe4guYS73O5wwTAhgxt0osvF",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11475.LDA.tddft.6876-8021/07131/07131.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "0OD0m02t0lawvy86hSbTa5JVDge8",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "11922/11922.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "CPawcAd5-nyiwVdZMKoPeLipIs-O",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/05715/05715.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "KLhLhL3Q1mAklfc1VqT7jVdj1Dbf",
+    "upload_id": "63kvAqQgTPGvmTnZ669Z-g",
+    "mainfile": "55764.PBE0.gs.tddft.12395-14743/13667/13667.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "IosFYjKsqw6CQCFtjdQeFkPsoTyn",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "21631/21631.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "j4Wdpq2imYDlorABxR1DohArc8mc",
+    "upload_id": "wodJosSgQMCO8TI09iKTBA",
+    "mainfile": "55757.PBE0.gs.tddft.0-1500/00849/00849.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "gWXCc_qsOJfMIYWy7oY7W68lUirQ",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11478.LDA.tddft.10314-11459/10564/10564.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "u2U41930W8-Ndoxu0b8L1Bx2JQht",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_partial_surface_termination/tri/nh2/tri_N-N_nh2_3/pbe0/scf_pbe0_tri_nh2.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "5e6wQf8N216o1QPf0TowcRFk4YuO",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/05980/05980.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "jhFr-Qxd11TVSEuHIJk4agXWsBhC",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "10748/10748.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "NKT7K03nR6S9ogr0-gtAgjY8TODZ",
+    "upload_id": "63kvAqQgTPGvmTnZ669Z-g",
+    "mainfile": "55764.PBE0.gs.tddft.12395-14743/12723/12723.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "_5WclhuYiAlqndBs80IKxYydpeJC",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/04011/04011.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "AEO2Dr3X_KUFE57YEk7tPIOyLAYj",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HIE-CO_Zn2+/ACE-HIE-CO_Zn2+.aims/ACE-HIE-CO_Zn2+.001.aims/energies/ORCA_M06_def2-QZVPP/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ipuVWgS05KME0aLdOsgA_SNlJizx",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HIE-COH_Zn2+/ACE-HIE-COH_Zn2+.aims/ACE-HIE-COH_Zn2+.035.aims/energies/ORCA_RI-MP2_def2-TZVPP/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "mGZp-0DpU6SSAc6xVxqFTCHCkOC5",
+    "upload_id": "HpfuIDx9Sfqfza0CFEOmFQ",
+    "mainfile": "1w-5p_b/B3LYP/output",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "N46feXVQkozvtH6RGhW1y8voPavF",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/12033/12033.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "G3jdBs8FopA68QobI8wkGKtkw5C2",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11476.LDA.tddft.8022-9167/09054/09054.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "NUnM8o5vrBfhEiP1ZwHlsrOcdt-_",
+    "upload_id": "wodJosSgQMCO8TI09iKTBA",
+    "mainfile": "55757.PBE0.gs.tddft.0-1500/00689/00689.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "6Hozr4-qVfsbF2SyxvQgqMlDZAJs",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "16302/16302.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "d-4XlJSBOax-COro2DWUYow3N6nq",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/03836/03836.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "U16OAkTDX2YCn-fLe9vl1x-HygBO",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/13932/13932.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "7V97A6hsZCncM6V6UX_ajtPhLF9s",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/01221/01221.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "DQdeyIKtGuDZCidXnMBwFOMDita0",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/03704/03704.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "-hR4BqpIDJmVF8UzBsx6Vf9ZDXJ0",
+    "upload_id": "Nnkd1NFSQ42Fo0f_hnxqTA",
+    "mainfile": "Disphosphene complex/Mo/back/mo10v6.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "jw_KUNRrdcFoOmg5Xd3Km5Bt9g3y",
+    "upload_id": "v2p66Xi4SwenPOv8WvOvAA",
+    "mainfile": "55767.PBE0.gs.tddft.19439-21785/20935/20935.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "H2gn708o3fQ0b_a8kjyNzegwmMFz",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/21375/21375.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "pix_7mzv3ABg5ryZ9uSvkVEarTXC",
+    "upload_id": "L5oIyR_UTIWdFv_QN18myw",
+    "mainfile": "03377/03377.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "AOMpr-Ws2T0_PBOyRsS0kuYWUtDQ",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "20077/20077.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "fZSQUNMuDUf2c2gwNVXHky0CKG8D",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/15596/15596.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "o3jnE4yZWafvoiQPhgUtauh5lQTW",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11483.LDA.tddft.16044-17189/16380/16380.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "mOGQq1pVDB-RmM1nTptMknQ6HBdS",
+    "upload_id": "63kvAqQgTPGvmTnZ669Z-g",
+    "mainfile": "55764.PBE0.gs.tddft.12395-14743/13780/13780.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "1TUwwWCt_AMJVTaGG3umPOXD62RV",
+    "upload_id": "v2p66Xi4SwenPOv8WvOvAA",
+    "mainfile": "55767.PBE0.gs.tddft.19439-21785/20105/20105.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "-GOPNzC8ZlRxhTciEhEBxcJ4ge9N",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11481.LDA.tddft.13752-14897/14395/14395.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "tuTyfDxSguxHIIhdAvnUzG4NpX_M",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/11064/11064.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ADsp0ZGqpW_VMHu5sNuJqXVy_-iw",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11486.LDA.tddft.19482-20627/19793/19793.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "SlaECQqkX23I0NLvLBEL69OoO3Ao",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "19807/19807.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "0g13zW12IEWqtPBJkSq6V4Z7Pc3n",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HID-COH_Zn2+/ACE-HID-COH_Zn2+.aims/ACE-HID-COH_Zn2+.150.aims/energies/ORCA_DLPNO-CCSD(T)_def2-SVP_ZnGhost/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "27ZlzTs11DCU1JvmA51mRVMkBeDc",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/03434/03434.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "o-Ye0_thGp0efeOjiLrE8f0yZjWc",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "18306/18306.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ENaV45VFgnvlixGOj7p0yLCBKB4y",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "14415/14415.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "TFRKvkACVmiTywp5P8uTXcsiaBP4",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HIE-COH_Zn2+/ACE-HIE-COH_Zn2+.aims/ACE-HIE-COH_Zn2+.048.aims/energies/ORCA_DLPNO-CCSD(T)_def2-SVP/ORCA.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "PYvUTNpcy7bOMMKc07S3EeRkG2ai",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/07636/07636.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "9FHFCQGxqbvtzTiRqTArsfcFYg5P",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "18466/18466.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Pte7WKUR3WgWnRCdAu-8rraeJ-RU",
+    "upload_id": "Gi1MKu7LS42KwnDeFXL5Hg",
+    "mainfile": "55758.PBE0.gs.tddft.1500-3000/02235/02235.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "S4H7cl-4J8Cm2ex6Gi4ow7QPi-ic",
+    "upload_id": "weSM5NsUS1mQT0CKCqxlcw",
+    "mainfile": "11473.LDA.tddft.4584-5729/05588/05588.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "DlJffqKLvAKZ_kp_Ehz9ZBnoYB8a",
+    "upload_id": "1YtjcQzAQMqmNV-vny5X3g",
+    "mainfile": "55760.PBE0.gs.tddft.5350-7697/05856/05856.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "kRUkf3rSXhzWsJl9UtaZx7IC-51v",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/07064/07064.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "8mhG-CCdQKrGhhBFpT0WTbkLcvsS",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "17844/17844.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "j4DDoztnOL8O02aqV-fR2REBJStS",
+    "upload_id": "g7hniWphQmmzLyaH9TortQ",
+    "mainfile": "00858/00858.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "UjEfwKbFcKVU0q51-1zEBSF89LvK",
+    "upload_id": "YIRtcD9sQZymSmtZCw6I6g",
+    "mainfile": "00837/00837.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "G7GuKllK0eLy7EtE0QlGdfWouDS2",
+    "upload_id": "iBz6W-MjQc6cl3ir_-sekw",
+    "mainfile": "06672/06672.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "t9LAr6DAcVJzqVodY18eJ4bwKXLL",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11477.LDA.tddft.9168-10313/09419/09419.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "IaIWN13NKdL80T4Q6qkL_XWty0Aa",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/17571/17571.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "gFNIptoDqvX8iFhj8w_zko-ZRAVu",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11487.LDA.tddft.20628-21785/21067/21067.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "T2fqY9cVD3iknW9ZTmpigrYRPu0f",
+    "upload_id": "fJTu6Ui_S_G4VRhHd9tVeA",
+    "mainfile": "3-i2-u2-anti/output",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "tk4G7HchIMK-SafskgLEXHxz4L-e",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/01828/01828.out",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "_bkBAQIClI90SEYFXoiHToeuA4vG",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/c109h80/oh/C109H80_Si-Si_oh_3/pbe0/scf_pbe0_c109h80_oh.out",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "yGH_lFrNZiHrb9jS7C4yw0um8IR8",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/c68h64/f/C68H64_Si-Si_f_2/pbe0/scf_pbe0_c68h64_f.out",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "hBQDc-QBeT5evomSMWtx8SbzpyjY",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_partial_surface_termination/c109h80/nh2/C109H80_Si-N_nh2_2/pbe0/scf_pbe0_c109h80_nh2.out",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "qRm9uYGCpA9inuzExem6yGO9DZ20",
+    "upload_id": "nlR0xET7SISjfLyk2ZCtaA",
+    "mainfile": "NOMAD/MgZn/OUT/TS1_MgZnI.out",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "psvrwLhxv7PWz-J0cgzqsCWEMlOh",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/c74h64/nh2/C74H64_N-B_nh2_2/pbe0/scf_pbe0_c74h64_nh2.out",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "-UX1zkOBNxpCLPyc-L75JUc0L3Fb",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_partial_surface_termination/c68h64/oh/C68H64_P-P_oh_2/pbe0/scf_pbe0_c68h64_oh.out",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "1bSvmsPQNuy38CH7T5W7t7K2KN_L",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/c68h64/h/C68H64_P-N_h_2/pbe0/scf_pbe0_c68h64_h.out",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "Zig6e-T8omkSk0EulrltKsuyV4mX",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_partial_surface_termination/c74h64/nh2/C74H64_C-Si_nh2_2/pbe0/scf_pbe0_c74h64_nh2.out",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "JWEW9EGMZnasx2yFmtQ7su-N0Aj6",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/12312hex/oh/12312hex_C-C_oh_1/pbe0/scf_pbe0_12312hex_oh.out",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "9y0f3QBMpbVzxqPWMD24lhpD0LR0",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/1234pent/oh/1234pent_C-P_oh_2/pbe0/scf_pbe0_1234pent_oh.out",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "kl3DYkw4RKlTzapXFYDHbckGG6f0",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/1234pent/nh2/1234pent_C-C_nh2_1/pbe0/scf_pbe0_1234pent_nh2.out",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "jVy4rtfWcqqXxAgwsTdrhbogWZwx",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/c88h80/f/C88H80_Si-Si_f_2/pbe0/scf_pbe0_c88h80_f.out",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "eoDzoyLMKS9oDX2rRMWQyEIrztqW",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/c104h78/nh2/C104H78_N-B_nh2_2/pbe0/scf_pbe0_c104h78_nh2.out",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "q2jtEUQxRXbxaQAvqfyVPRHrSQfO",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/c88h80/h/C88H80_P-N_h_2/pbe0/scf_pbe0_c88h80_h.out",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "bvGfz-Fwi9MIJxOtGlMym35wg5E9",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/12312hex/oh/12312hex_P-Si_oh_2/pbe0/scf_pbe0_12312hex_oh.out",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "izxKec7iQzLaNQh2dqt48wf660k-",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/1-2-3tet/nh2/1-2-3tet_N-N_nh2_2/pbe0/scf_pbe0_1-2-3tet_nh2.out",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "v2sZMD0UCpByn_Gs5mc9zfSNbpUu",
+    "upload_id": "nlR0xET7SISjfLyk2ZCtaA",
+    "mainfile": "NOMAD/ZnMg/OUT/TS4a_ZnMgI.out",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "C9mxkmpIKgX6lgynCSDUo64sJRjZ",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/c104h78/nh2/C104H78_C-P_nh2_1/pbe0/scf_pbe0_c104h78_nh2.out",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "bUTZ6ws_IvFmqrHOHmgJl70GGSVB",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_partial_surface_termination/c53h48/oh/C53H48_P-P_oh_2/pbe0/scf_pbe0_c53h48_oh.out",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "aP4RrvUuyh7AmHN5Wxs4OzIckAFl",
+    "upload_id": "aQ3q9NRyQ1WPUbg79J_8sA",
+    "mainfile": "Chapter_6/C6_gasphase/TBS_pes/180/output.out",
+    "system": "not processed",
+    "structural_type": "not processed"
+  },
+  {
+    "entry_id": "7nOQ9x-L0d6oiin6C6G3jxv-xl-z",
+    "upload_id": "HpfuIDx9Sfqfza0CFEOmFQ",
+    "mainfile": "1j-2f/orcaoutput",
+    "system": "not processed",
+    "structural_type": "not processed"
+  },
+  {
+    "entry_id": "mhm_5p8oU0up4y5NFahkOl0KTgFO",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HIE-CO_Zn2+/ACE-HIE-CO_Zn2+.aims/ACE-HIE-CO_Zn2+.010.aims/energies/ORCA_RI-MP2_def2-SVP_ZnOnly/ORCA.out",
+    "system": "atom",
+    "structural_type": "atom"
+  },
+  {
+    "entry_id": "Ox28O9fMZwM-toNdbuJf5dYz02GM",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HIP-CO_Zn2+/ACE-HIP-CO_Zn2+.aims/ACE-HIP-CO_Zn2+.037.aims/energies/ORCA_RI-MP2_def2-TZVPP_ZnOnly/ORCA.out",
+    "system": "atom",
+    "structural_type": "atom"
+  },
+  {
+    "entry_id": "F3ulgnIn_ahT6O3fqzx20q5ctQpz",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HID-CO_Zn2+/ACE-HID-CO_Zn2+.aims/ACE-HID-CO_Zn2+.025.aims/energies/ORCA_CCSD(T)_def2-SVP_ZnOnly/ORCA.out",
+    "system": "atom",
+    "structural_type": "atom"
+  },
+  {
+    "entry_id": "6gL14qPSvBaw97pszzjXPggK_LtW",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HID-CO_Zn2+/ACE-HID-CO_Zn2+.aims/ACE-HID-CO_Zn2+.075.aims/energies/ORCA_DLPNO-CCSD(T)_def2-QZVPP_ZnOnly/ORCA.out",
+    "system": "atom",
+    "structural_type": "atom"
+  },
+  {
+    "entry_id": "-EdLhy5-hDJgWpEZSZvwA4_rmJdN",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HIP-CO_Zn2+/ACE-HIP-CO_Zn2+.aims/ACE-HIP-CO_Zn2+.021.aims/energies/ORCA_RI-MP2_def2-QZVPP_ZnOnly/ORCA.out",
+    "system": "atom",
+    "structural_type": "atom"
+  }
+]
