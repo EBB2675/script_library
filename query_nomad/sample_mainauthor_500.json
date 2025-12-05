@@ -1,0 +1,4002 @@
+[
+  {
+    "entry_id": "Ab_I_SVPam-693Fz-WHZe-m8x949",
+    "upload_id": "NjF1HlQOQuOlN1NGximQ2A",
+    "mainfile": "55763.PBE0.gs.tddft.10047-12394/10777/10777.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "G72HbQD8xY_PB3-g0d1-Z0G3JttU",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11475.LDA.tddft.6876-8021/08003/08003.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "wjRh-kYltFE462bFPBYkQEmrbC_s",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HIP-CO/ACE-HIP-CO.aims/ACE-HIP-CO.033.aims/energies/ORCA_PBEh-3c/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "lEHaFuof9B7YcSeYBFhlpT3P7gEA",
+    "upload_id": "nlR0xET7SISjfLyk2ZCtaA",
+    "mainfile": "NOMAD/ZnMg/OUT/cho.out",
+    "main_author": "Lucas Welington De Lima",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "VON6Vf4XCxO6lRm0mUhgDFJKrHHR",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_partial_surface_termination/ad/f/ad_B-B_f_1/pbe0/scf_pbe0_ad_f.out",
+    "main_author": "Thorren Kirschbaum",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "XvN2l-ictr5eCMAlcNZgAJTbjIUM",
+    "upload_id": "HpfuIDx9Sfqfza0CFEOmFQ",
+    "mainfile": "1a/B3LYP/orcaoutput",
+    "main_author": "Stefan Zahn",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "FPTmNPh40ZRMmJQvqQ-OXgjD-w9D",
+    "upload_id": "J59R8OuMSFCvIRqS0hXhDA",
+    "mainfile": "dialanine/MP2-vacuo/120+60.out",
+    "main_author": "Esma Boydas",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "sGpW2g0gBNuOQaRbR2kws6ND0dSi",
+    "upload_id": "z9iX4UVXTEieKhb1BbPC3A",
+    "mainfile": "Thio-Michael_Additions/Dihedral_Angle_PES_Scans/Acrylamide/CCSD(T)/007/orca.out",
+    "main_author": "Shayantan Chaudhuri",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "A9zQkQBZZmULxOKiWzEs1a-f9OjF",
+    "upload_id": "CgH_YG0xR3Cjmor4---43g",
+    "mainfile": "Chapter_5/C5_gasphase/nba2dpes/040/040benzalopt.out",
+    "main_author": "Martin Lea",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "cnFXt2gWQu-Tvv85Mp5sAgr1NPnh",
+    "upload_id": "Nnkd1NFSQ42Fo0f_hnxqTA",
+    "mainfile": "Disphosphene complex/Mo/back/mo4v4.out",
+    "main_author": "Florian Kreuter",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Ks81JqufaFgWyLtabK3XoROXIm2V",
+    "upload_id": "dqwRdXZ3RZ6y9rWRLTYVEQ",
+    "mainfile": "TEMPOAu_paper/ORCA/AuONMe2_CASPT2/def2QZVPPD/AuONMe2_cas4-2_0053.out",
+    "main_author": "Haitao Zhang",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "7ejSgNr6SiWxTMCK1xXu4ZfiwIz9",
+    "upload_id": "qEHz6my8Ss690IGV0LWsRw",
+    "mainfile": "casscf_nevpt2_bn-tetra/18,4/MP2_CAS1212_NEVPT2.out",
+    "main_author": "Max Pinheiro Jr",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "xTZxbn0Ahj20lbcrnvoWUKwfl3fq",
+    "upload_id": "_b-hD5zFS0a7EY1KGjbEAw",
+    "mainfile": "u2_TD-DFT.out",
+    "main_author": "Mostafa Tavakoli",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "fKeHNC8Db1xcMCDBMkJXNrx0Jang",
+    "upload_id": "GSCz8oRWRR2pOM5YJIHzVw",
+    "mainfile": "ORCA_inputs_results_pH7.4/IBU0.out",
+    "main_author": "Maria Von einem",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "zxmpWJuSpmeiGA6DG2kg2dFAF7qw",
+    "upload_id": "O1i8LpM7S4qjsGHLxYnjgQ",
+    "mainfile": "DLPNO-CCSD(T)/A-free-THF.out",
+    "main_author": "Akseli Mansikkam\u00e4ki",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "K4134eU28wRmbhhQe7_b3Va9iEAI",
+    "upload_id": "ue41kCiESJCubexAzsoAGw",
+    "mainfile": "NITROBENZENE_RADICAL/Properties/HFCs/PCM_THF/NO2C6H5Na_HFCs_neutral_doublet/NO2C6H5Na_HFCs_neutral_doublet.out",
+    "main_author": "Daniel Reta",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "v44jDk83ZYYSA8mQnhc8hnoEvwCq",
+    "upload_id": "Vn52cSAgSUC9BvwefTsT7g",
+    "mainfile": "orca1/orca.out",
+    "main_author": "Tamas K Stenczel",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "c9vSkZYrNAGFxkL0h37GBzBe7MYu",
+    "upload_id": "DLpXm6AbTc64oVO8luYgag",
+    "mainfile": "orca/orca3dot2706823.out",
+    "main_author": "Markus Scheidgen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Dh4UMH7o5sG7GvbUpsBteSQqJQXq",
+    "upload_id": "KMhSoUbcSvSfMswASeQmqw",
+    "mainfile": "example_test/orca/orca3.2706823.out",
+    "main_author": "Jungho Shin",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "3y4eOV8UzrioifM8Y2kV2STVQRkY",
+    "upload_id": "1uZ4lWNEQ9udQaeip84cPA",
+    "mainfile": "11472.LDA.tddft.3438-4583/04158/04158.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ro1z6gdSPFg8Y46f_jf7IjXCMslE",
+    "upload_id": "1uZ4lWNEQ9udQaeip84cPA",
+    "mainfile": "11472.LDA.tddft.3438-4583/03897/03897.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "RMbuAMNMFmExnJI3T6s8bmCk5fU-",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/14624/14624.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Nwno23h-7qPq1unTEFrbPMGPwJ1N",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/17103/17103.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "CbmHJ_AFZ5Z-2clCDu4l9ZdAsKSL",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "11287/11287.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "c97mex_smo_NKCwZsqSmCVnoTMDQ",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "10943/10943.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "dre0-nZZdHg9Bbdfclr2jvsnrLAW",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "15652/15652.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "vkUdAhFuruQRJtA2nxXT9jQRxfrz",
+    "upload_id": "U8sWMr4-SVSN78oZFhz_DA",
+    "mainfile": "01762/01762.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "pbzcdVu5sfYKgH4b80iaAp2QZcUy",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "17068/17068.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "0bIYE4AodTBBjvoS7K-tappNZ_5_",
+    "upload_id": "L5oIyR_UTIWdFv_QN18myw",
+    "mainfile": "03271/03271.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "kHqGucW7R3OZRk9Xe4qcWc1fhOD1",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/08180/08180.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "yhA96r-m7v7pSBBUaEp80PculEfG",
+    "upload_id": "iBz6W-MjQc6cl3ir_-sekw",
+    "mainfile": "06733/06733.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "cD68jFuiQEwTWOPt5ajRxgLzTNDo",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11478.LDA.tddft.10314-11459/10615/10615.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "iIy4kNasjEOg7BwZBLEX2Ln4Vjp_",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11486.LDA.tddft.19482-20627/20182/20182.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "fipTZrF8YONceii-FrCfzFbVq2BF",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/06685/06685.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "j22-w1VcfzqKuSOn01kA2aX50vGc",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/00477/00477.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "f5W9r2QmaQBQC3i62U7hUV9RpcU3",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/01038/01038.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "d4cH-AMI04uG1so5tX0x2KLPg9Br",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11480.LDA.tddft.12606-13751/13597/13597.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "EkcnUL6vIQo0EWNc4bySzcARzSP1",
+    "upload_id": "wodJosSgQMCO8TI09iKTBA",
+    "mainfile": "55757.PBE0.gs.tddft.0-1500/01460/01460.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "oyoXuwWfIscvGxgB-t_oP9mBY5Up",
+    "upload_id": "YIRtcD9sQZymSmtZCw6I6g",
+    "mainfile": "00108/00108.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "zTPx5EwA3Z4kaY7Yn_dumAKDo-iy",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11477.LDA.tddft.9168-10313/09482/09482.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "t2VJ4y2JWxYAg1Tk8t9fIM9XQMfM",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/13758/13758.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "AZT29Fgtyj9Rd_A_gDHu_Fxa6Zr9",
+    "upload_id": "v2p66Xi4SwenPOv8WvOvAA",
+    "mainfile": "55767.PBE0.gs.tddft.19439-21785/20829/20829.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "s_gukiauwb5sirZ4unuq8ZxvSodv",
+    "upload_id": "8R3qo6DCS8ir-df3RbEXDA",
+    "mainfile": "55761.PBE0.gs.tddft.7699-10046/09991/09991.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "vep_jWAoQLBCc124LtexqTrBUkEp",
+    "upload_id": "63kvAqQgTPGvmTnZ669Z-g",
+    "mainfile": "55764.PBE0.gs.tddft.12395-14743/14118/14118.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "X8moIbMoaYGbo5PxrMP-_cnjlIgl",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/04892/04892.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "gRfs5YIpy9clNStrM-Wc2ICg_wBF",
+    "upload_id": "NjF1HlQOQuOlN1NGximQ2A",
+    "mainfile": "55763.PBE0.gs.tddft.10047-12394/10704/10704.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "V_uR7DgHRe_gb_YCqXpE8LEF-Lfa",
+    "upload_id": "63kvAqQgTPGvmTnZ669Z-g",
+    "mainfile": "55764.PBE0.gs.tddft.12395-14743/12801/12801.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "MDsWS5B_7uD9ta1VTxck34WbXiwq",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11476.LDA.tddft.8022-9167/08728/08728.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "T2MdrtbHJu4uPqJMcXMQGqRth3A2",
+    "upload_id": "U8sWMr4-SVSN78oZFhz_DA",
+    "mainfile": "02246/02246.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ABZzoE_9Hj938dyqVsxv7dZPekP_",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/16187/16187.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "-UQpnwEK9NGuL47kpibFjXa8w-15",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "14497/14497.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "JaSCFiD1KOA6YljDCoyacW5djdYI",
+    "upload_id": "1YtjcQzAQMqmNV-vny5X3g",
+    "mainfile": "55760.PBE0.gs.tddft.5350-7697/06357/06357.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "awyndueo11MbAQE6MuorQL8u1x2S",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11487.LDA.tddft.20628-21785/21589/21589.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "SHIBJpjk8dfJOz6V9J2ZIRbUQ38B",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "15449/15449.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "OhzyYlWp8Ayoh2ohsO49F8nh1Ot4",
+    "upload_id": "NjF1HlQOQuOlN1NGximQ2A",
+    "mainfile": "55763.PBE0.gs.tddft.10047-12394/10899/10899.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "rp1-dV1x8F3-fqXJiMQunawA3pIr",
+    "upload_id": "1uZ4lWNEQ9udQaeip84cPA",
+    "mainfile": "11472.LDA.tddft.3438-4583/04220/04220.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "dLAYFFx0EnOIsmXjSv_m4KqEkyNQ",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HIE-CO/ACE-HIE-CO.aims/ACE-HIE-CO.010.aims/energies/ORCA_M06-L+D3_def2-QZVPP/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "624WXQ5twxh61JwEzMoqpcM8ECiR",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/14752/14752.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "hkQvvI-EBLObp8OKSK5IjzIoj5vY",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/05909/05909.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Fh5-414vXq37NwNwNRST7szdT2yp",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "15163/15163.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "pNQAAgPHNg9dv4SzBcnV954k9Fvr",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/15129/15129.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "AU78g-TiEwUlTUXuRyVrb4kgUyiV",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/09394/09394.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "s7Ak75iB7VczupLrglW_LYXJLC5B",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "11771/11771.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "4-cD1pORj5-A7Hc7PLOD7XxTkR-4",
+    "upload_id": "YIRtcD9sQZymSmtZCw6I6g",
+    "mainfile": "02420/02420.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "bITh-W7vXyr7Zj02Ea1f104ZInUz",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/16934/16934.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Zgi6J3U-j4aQ8dTuEsgALdZYR5s_",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/16449/16449.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "64VmAeH_2Jj-8-Zrfk3RjAIHXm6v",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/05941/05941.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "1hdIXmnIPYfjaC6Z5lIFor_h2nm-",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/20486/20486.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "aHRv2SZnjd8dvL6NOOHimyDsfVJN",
+    "upload_id": "Gi1MKu7LS42KwnDeFXL5Hg",
+    "mainfile": "55758.PBE0.gs.tddft.1500-3000/01729/01729.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "sABycx0Q88tqEeMvjNgHklztI0em",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11486.LDA.tddft.19482-20627/20585/20585.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "uFQEYwFnDgCo3a2s9Z_LYGyIOl16",
+    "upload_id": "YIRtcD9sQZymSmtZCw6I6g",
+    "mainfile": "02694/02694.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "PvXRHdASFQam3GJRBfx6bYUtJxr9",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HIE-COH_Zn2+/ACE-HIE-COH_Zn2+.aims/ACE-HIE-COH_Zn2+.001.aims/energies/ORCA_M06-L+D3_def2-QZVPP/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "UGBJr9yC9AoHW_6gHMXs9292sn4n",
+    "upload_id": "1YtjcQzAQMqmNV-vny5X3g",
+    "mainfile": "55760.PBE0.gs.tddft.5350-7697/06604/06604.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "rUcS0CmBWFXi9UqsqpM4S1cL97k5",
+    "upload_id": "63kvAqQgTPGvmTnZ669Z-g",
+    "mainfile": "55764.PBE0.gs.tddft.12395-14743/12777/12777.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "uOJUAw8U7u9UPgv7Kv6QysRghfi-",
+    "upload_id": "L5oIyR_UTIWdFv_QN18myw",
+    "mainfile": "02659/02659.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "eWwnE7OAKDkx6K92K3QVZpNhIdTG",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/16949/16949.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "6j1_cUUStLhGFBG7Z4r1QbTmDGgY",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/20141/20141.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "epqV14_rkN8YMRwVSrzq0_A_C7k2",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/12612/12612.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "BytWd1ew_NDumBnQGT78ObRtyKe-",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "10089/10089.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ii42M_Ctq4sbXNvxdZK4ogTYBqDc",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11483.LDA.tddft.16044-17189/16579/16579.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "9zdYanVifPL6QjFIAbFk3gZ2R9ns",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/11686/11686.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "1dcl2fPYoDmmkhAlQ9_iIPEvWvh7",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/18584/18584.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "X1IvfLNP9-RFRllO8hbE_AjTn5sD",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/02552/02552.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "MEVNKzsqOtBu6FoQXuQbG1dQQrkE",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "16909/16909.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "W-flwvb8JNx36DT6hB4C1SxNrEVa",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/20897/20897.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "iSBS5tWCdEnBFHnU0ywtPozKcm2R",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/07389/07389.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "FV-EoVu12rZIb-rGdSPBSH9G6roS",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HIE-CO_Zn2+/ACE-HIE-CO_Zn2+.aims/ACE-HIE-CO_Zn2+.013.aims/energies/ORCA_RI-MP2_def2-SVP_PeptideOnly/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "FeDofnI93xzccvTjv1DoYLwo8Ldj",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "15558/15558.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "4qPDJ6mqZRIvYRoYKmpMuTvl3Lkk",
+    "upload_id": "1YtjcQzAQMqmNV-vny5X3g",
+    "mainfile": "55760.PBE0.gs.tddft.5350-7697/05774/05774.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "PX0T0Upn7eyvWt_D_tHYkkQopOPP",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "20436/20436.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "LFdpnvp0Pi9iVZWgYIBZphh6Dkm8",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "09168/09168.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "A-EfbMG1q5ZooCBuXztpbyasVG0O",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11477.LDA.tddft.9168-10313/09297/09297.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "P66xQZK4aGs3ipedO1qLEktkUsGt",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11487.LDA.tddft.20628-21785/21559/21559.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Q73YNVGJ8318b17G6A_lkUYv7R5Y",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/08874/08874.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ZHuMGHxva_JEbcqM3J1pk7guAw3X",
+    "upload_id": "U8sWMr4-SVSN78oZFhz_DA",
+    "mainfile": "01569/01569.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "bNmemnIzEDFvommgMiou5p2JasME",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/16476/16476.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "S0aSv4-DTKHXdNwe28mpGT6tiAzM",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/05786/05786.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "eR_p9TLjd-1HmvrZfdZjL-g1A7Ce",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "09123/09123.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "nEHHQj1aDgEetCOoV4hCEJouvd0o",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/04947/04947.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Ufhc0qvsRmG4WvH3v1IkmvU2TjVF",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11481.LDA.tddft.13752-14897/14028/14028.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "gvr8_XfR1hWSV0XLrONs7YCh2475",
+    "upload_id": "NjF1HlQOQuOlN1NGximQ2A",
+    "mainfile": "55763.PBE0.gs.tddft.10047-12394/11876/11876.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "wi1JFrn1YASm_0WG4nJnD0pGZWBG",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HID-COH/ACE-HID-COH.aims/ACE-HID-COH.022.aims/energies/ORCA_M06-L+D3_def2-QZVPP/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "euFzwWHHhpgtZotstoujTQDzC8lS",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "08252/08252.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "aDle-t8CJRkR9Z2xrK24t3998k6Q",
+    "upload_id": "v2p66Xi4SwenPOv8WvOvAA",
+    "mainfile": "55767.PBE0.gs.tddft.19439-21785/20077/20077.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "DOPnLAPAARPoLRzP9VNjTcVtTtzf",
+    "upload_id": "63kvAqQgTPGvmTnZ669Z-g",
+    "mainfile": "55764.PBE0.gs.tddft.12395-14743/12724/12724.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "NRj0liQl00VcbSG1OgD_g2plQUPR",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/05524/05524.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "f912HlTMJ2UChRrTMCOeuFiyEwrs",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HID-CO_Zn2+/ACE-HID-CO_Zn2+.aims/ACE-HID-CO_Zn2+.116.aims/energies/ORCA_DLPNO-CCSD(T)_def2-TZVPP_ZnGhost/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "NMLtIYong9qvtcyHr6iLwISkP8B-",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "13120/13120.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "RGjL-8VSCvXyDTJhNnSBJXXnQL_2",
+    "upload_id": "1uZ4lWNEQ9udQaeip84cPA",
+    "mainfile": "11472.LDA.tddft.3438-4583/03608/03608.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "YZvVTPkFDGrzL3iHhExYB0DcRudj",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "11822/11822.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "XsuyPqdPB3yeVhrItE6bUQbcp4BI",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/13312/13312.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "uV8gnkBmYRm9zUy_IbgBct2WEeBc",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/03252/03252.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "gLvYh2JqQHbvliJVtJWI-4nMC1cX",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/17286/17286.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "5dvfxq1DLvAZA4VXD_Rmgaw-Vdv2",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "20510/20510.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "AO28Pa8waK_r2ZLyjgI20L3NHjdA",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/00480/00480.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "RPqUxCbXrjcIvzqMysnuVjFlBrlp",
+    "upload_id": "1uZ4lWNEQ9udQaeip84cPA",
+    "mainfile": "11472.LDA.tddft.3438-4583/04578/04578.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "4QtiP9k9LfLQ-FVxDa0Ah6GVdVi3",
+    "upload_id": "8R3qo6DCS8ir-df3RbEXDA",
+    "mainfile": "55761.PBE0.gs.tddft.7699-10046/08725/08725.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "KZufUzjqF-am8anlHwa1Dtd6yKgC",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11479.LDA.tddft.11460-12605/11842/11842.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "YpmCUqx_hUnsAKGzxDXEi4mthzqP",
+    "upload_id": "NjF1HlQOQuOlN1NGximQ2A",
+    "mainfile": "55763.PBE0.gs.tddft.10047-12394/12175/12175.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "RfPagfzxl4Hh4jdTIAa58ZPneIew",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/07198/07198.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "4_94AsFs2oAY58-YtH1AXZLiL3P5",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/19046/19046.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "QoKXa2cST3yVL8PWZGaqQxyw0FHL",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "18463/18463.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "5HO-MdQrEvQbTn_OGNlyPoC4B780",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/19672/19672.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "oF0r_nkqZ9GpYjJwL0g0dn6xCnzg",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11484.LDA.tddft.17190-18335/18139/18139.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "BLCY7z93ZrTD0qnI5rZ7QrXXlM4m",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/11428/11428.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "IM282s8p8ZLlLKCim0VUEEmOfKwR",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/19153/19153.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "x6nWeI2FK3NAQv4fV49i21mjvNR9",
+    "upload_id": "1uZ4lWNEQ9udQaeip84cPA",
+    "mainfile": "11472.LDA.tddft.3438-4583/04531/04531.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "MI4Vf8ja80aiOdPDzfUFYHQ0B8Qn",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/03463/03463.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "YD8__XR0MFV90N90YEwdLgtrfQpP",
+    "upload_id": "NjF1HlQOQuOlN1NGximQ2A",
+    "mainfile": "55763.PBE0.gs.tddft.10047-12394/10948/10948.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "rl5lBlBzcwILCuvaGwIvE7WfuNea",
+    "upload_id": "YIRtcD9sQZymSmtZCw6I6g",
+    "mainfile": "02301/02301.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "vG5KxwdytWyyNVOHqWQY1dfk41fE",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/13797/13797.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "_mHDlE8hvEpCu7OiBarR32uwc6qw",
+    "upload_id": "g7hniWphQmmzLyaH9TortQ",
+    "mainfile": "00434/00434.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "VwrmtTO7ZJwiyViq428P8np-e8vq",
+    "upload_id": "g7hniWphQmmzLyaH9TortQ",
+    "mainfile": "00980/00980.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "govwwohBlVGhOlZqqgPkQpwn1QD8",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HIP-CO_Zn2+/ACE-HIP-CO_Zn2+.aims/ACE-HIP-CO_Zn2+.037.aims/energies/ORCA_RI-MP2_def2-QZVPP_PeptideGhost/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ijBGb6HOXGOmyDbB1pK-9arTbQ91",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/12312hex/f/12312hex_C-Si_f_2/pbe0/scf_pbe0_12312hex_f.out",
+    "main_author": "Thorren Kirschbaum",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "OXW6s3KLQy574mzbIKjXThsA6uhl",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/17468/17468.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "GgKHbARaFxqKQPOQRkjNRLL-cSDW",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HIE-COH_Zn2+/ACE-HIE-COH_Zn2+.aims/ACE-HIE-COH_Zn2+.029.aims/energies/ORCA_DLPNO-CCSD(T)_def2-QZVPP_PeptideGhost/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "i0G6PFKg_tQI5uAEqd6l3xdYUivN",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "08840/08840.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "fNY4lBL0d9bxamnT-FxYueyuSDiK",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11484.LDA.tddft.17190-18335/17561/17561.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "PLGDHM6UkeFm8RAJr8DItgTN_I1e",
+    "upload_id": "Gi1MKu7LS42KwnDeFXL5Hg",
+    "mainfile": "55758.PBE0.gs.tddft.1500-3000/02128/02128.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "qvEELIskMDsjT_uFfw3JoP6DwFF2",
+    "upload_id": "YIRtcD9sQZymSmtZCw6I6g",
+    "mainfile": "00250/00250.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "5IIWX8O7t9bE7jvMWej82HA_1sPf",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/18256/18256.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "T8McfAjV_H11C8GvydG_Mclu1Tdr",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HIE-CO_Zn2+/ACE-HIE-CO_Zn2+.aims/ACE-HIE-CO_Zn2+.010.aims/energies/ORCA_DLPNO-CCSD(T)_def2-SVP/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "1dGDGWtyhbR-QivjVtfqGKNevQIG",
+    "upload_id": "L5oIyR_UTIWdFv_QN18myw",
+    "mainfile": "02570/02570.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "jNqzbfVNbD_okJleKaPH509G5OOe",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "16493/16493.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "DtENB7GG_Zt7OkxDgDNaWXK5Kxi7",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/18244/18244.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "mrSfiofPYi3FO0GUDZie65__8ydh",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_partial_surface_termination/1212pent/f/1212pent_C-N_f_2/pbe0/scf_pbe0_1212pent_f.out",
+    "main_author": "Thorren Kirschbaum",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "CVIhWhy1s9ce57Bw_AGO4524sHYq",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HID-COH/ACE-HID-COH.aims/ACE-HID-COH.038.aims/energies/ORCA_DLPNO-CCSD(T)_def2-QZVPP/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "gpXgrPzz1G8AlLY9fGoi8U-hiCfm",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_partial_surface_termination/ad/oh/ad_P-Si_oh_3/pbe0/scf_pbe0_ad_oh.out",
+    "main_author": "Thorren Kirschbaum",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "p0fKWvfVhGUMKwKYNfjYRjI0OAon",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11484.LDA.tddft.17190-18335/17636/17636.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "csRQa3jQ0UW3TExpb7Fv9QUIUSPZ",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HIP-CO/ACE-HIP-CO.aims/ACE-HIP-CO.008.aims/energies/ORCA_RI-MP2_def2-SVP/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "wMtVkgsFZLsXu4uNKJnO7012VMCE",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/20319/20319.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "awCUywrVgQR1gxsbYHTHjTlSaAEy",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/17958/17958.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "WXIo3afBPKaQopHzAw-ZBhSv65VK",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11476.LDA.tddft.8022-9167/08397/08397.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "yv3VsLaIkc6bKCWLZChoSLGw8TYT",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/08755/08755.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "KZ_5biLYKZE88ucJpkTnMPEGhfZ7",
+    "upload_id": "wodJosSgQMCO8TI09iKTBA",
+    "mainfile": "55757.PBE0.gs.tddft.0-1500/01365/01365.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "MU1W_cWD8nK6hgPt5qpirA3YTJ9F",
+    "upload_id": "YIRtcD9sQZymSmtZCw6I6g",
+    "mainfile": "00551/00551.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "PCJXdIFLJ3K8ef4g_fM_FChW8T-0",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "11144/11144.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Vt-cCoJhNKsqlgX9XKushiiA6Pjn",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11479.LDA.tddft.11460-12605/11677/11677.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "xSgplWHCBYF6kNmkPc3ICY6FLLSZ",
+    "upload_id": "wodJosSgQMCO8TI09iKTBA",
+    "mainfile": "55757.PBE0.gs.tddft.0-1500/00687/00687.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ZbWfCZEPr0pfB1TXuM4Ju7wLvoN7",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/20804/20804.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "6HHvbXi3mnMAgYKUPtVctyutcpZP",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11479.LDA.tddft.11460-12605/11603/11603.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "AnktOJcW5I_Dh1PlDG5FgTKEcdTL",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/02102/02102.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "lccCLxOGalbDZefArcT_OHwhRGzU",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/15782/15782.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "-atUqlgLjnTYYrUnEzvoEBsBkpp5",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/18102/18102.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "9Y2FLDM0bizetUdqnc575KBbpvqR",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "18744/18744.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "3NJhiz3AJpbkby8iCQWKeYuHXYtI",
+    "upload_id": "U8sWMr4-SVSN78oZFhz_DA",
+    "mainfile": "01495/01495.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "E5bkUjLKidUYbh87szknmLpecjFO",
+    "upload_id": "1YtjcQzAQMqmNV-vny5X3g",
+    "mainfile": "55760.PBE0.gs.tddft.5350-7697/07687/07687.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "9UzDnCS9KH3L6zs4fCQ0TC3UDhiZ",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11485.LDA.tddft.18336-19481/19197/19197.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "xL4UGNhh8pmw8KCzEdeaZuq2nYMt",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11483.LDA.tddft.16044-17189/16624/16624.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "yZSsuGZ4q1fq3FGpUg7VVXKqqQrK",
+    "upload_id": "iBz6W-MjQc6cl3ir_-sekw",
+    "mainfile": "06133/06133.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "959FZVUt7scGunK-k_-c1Uuh3XMn",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11477.LDA.tddft.9168-10313/10109/10109.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "qwCZCmDweCyyUP-x6twivzARkHow",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "12522/12522.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "xyDPbdFhiXahiF---EeUgjd82DlS",
+    "upload_id": "1uZ4lWNEQ9udQaeip84cPA",
+    "mainfile": "11472.LDA.tddft.3438-4583/03674/03674.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "x1I9Ak9tcIcgKYDFiD6KcHcii8Vp",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/20035/20035.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ATjGQFWjB4lDw5f7D6wGdRGphdBm",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11475.LDA.tddft.6876-8021/07810/07810.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "5_cFn09hTg8Z2V6NgoYh3uyr96V1",
+    "upload_id": "8R3qo6DCS8ir-df3RbEXDA",
+    "mainfile": "55761.PBE0.gs.tddft.7699-10046/09939/09939.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "K9sZEyOXM4QKXJ2wXuIFP5GOZDq8",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/14612/14612.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "vyiBDm-8bwndOgQbtV90q8Q6qDDg",
+    "upload_id": "63kvAqQgTPGvmTnZ669Z-g",
+    "mainfile": "55764.PBE0.gs.tddft.12395-14743/13590/13590.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "4hSumZ6zFcDLvyUyHZSX2xWmHMks",
+    "upload_id": "v2p66Xi4SwenPOv8WvOvAA",
+    "mainfile": "55767.PBE0.gs.tddft.19439-21785/20614/20614.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "v4HItIeyqVtmognLev0oXPNHmzOz",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/15561/15561.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Txt6u09AKSpzuXwAI9v2u_H9Ve-5",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/03161/03161.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "r9Z4uOq4e_cquW9jp4X4WgR3E_fM",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/04953/04953.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "8iz9MQsWa0Vxw5sZZK6ByhwM4Rt2",
+    "upload_id": "U8sWMr4-SVSN78oZFhz_DA",
+    "mainfile": "02238/02238.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "yEUsk0-7yiF6oACea9M4OzBsg14E",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/04503/04503.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "5Y-T4yyOxzlvBP0CNzUncmQQiG0S",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "21359/21359.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "g5Ld7FH-E24723rulUqMYkfCH6Kc",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/19105/19105.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "GLzRL0x-l89XHp4Wp0i4dxVfglUk",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/04585/04585.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "MIAyfQjzN47_Xa3FTOUiuqyiEzBj",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "13227/13227.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "2J12XoRAvRPl7Qpovgq1odtqoU3b",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "08769/08769.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "g9yt0vFg64ncfIyC5-KOESIcrb6K",
+    "upload_id": "Gi1MKu7LS42KwnDeFXL5Hg",
+    "mainfile": "55758.PBE0.gs.tddft.1500-3000/01559/01559.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Vpx51tpJzKfgt6mV-Lfqn8dFX_4C",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11479.LDA.tddft.11460-12605/12557/12557.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "CUJZVYgnbswJiB52CYSv1a6eamnO",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/09840/09840.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "H5Ypd0hUlPLXhH3kMeWpBYbp3niS",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "12510/12510.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "bVBXq7WAta4Z1sSvZLT3Dwgp6U_G",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "10940/10940.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "FAPiDQ7jo5hbjkdTMqN6G84QICvA",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11479.LDA.tddft.11460-12605/11885/11885.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "N-w96nzwfEOxydvFz0ZE4mu1XrZ9",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/18898/18898.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "i9nH-GJCxhAmkC9FQc2bwGAyBSUW",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/09734/09734.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "-TfqtpOUq1bhAwJOaXCgB9X0BqXh",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "08649/08649.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "b0bbF9EH8HVj_IyT6ejnlI17fmI_",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "14888/14888.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "SiL8-Evwrf2dyk-obOcsuBYFiGfo",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/11094/11094.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "_kUM6boD-2TSRlnr6uNWFsjv8rrr",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/19836/19836.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "czoFhH1LhtAwKp8BkCqcMzGtqWfd",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11482.LDA.tddft.14898-16043/15211/15211.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "arGrTtEltO-A_o36f18htOFzcbL7",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/01028/01028.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "BRl6BikuaIzIIvcHTZi9VvKCYeAG",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/02305/02305.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "d9kGTBHhQMQ1X8Q02QBRZTxXzc4-",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "17403/17403.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "1devo0Zs954yMFqwrJNGRrGoVAGK",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/20688/20688.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "0gbFNN2Oje9cKGRyYth-TBVfDc_3",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_partial_surface_termination/ad/f/ad_B-B_f_3/pbe0/scf_pbe0_ad_f.out",
+    "main_author": "Thorren Kirschbaum",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "CiQ0ukuxpowOgWwKf3iPPmVYYzaA",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/20879/20879.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "UTfWPkH-cU2INLvo0IraEPFjpb1H",
+    "upload_id": "wodJosSgQMCO8TI09iKTBA",
+    "mainfile": "55757.PBE0.gs.tddft.0-1500/01222/01222.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "pSWzgMV2KhZTQFSFN0OrbdzRMlGe",
+    "upload_id": "v2p66Xi4SwenPOv8WvOvAA",
+    "mainfile": "55767.PBE0.gs.tddft.19439-21785/19801/19801.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "bX2eJ6Ha-T4P4FMYEHkA8XiFtduo",
+    "upload_id": "weSM5NsUS1mQT0CKCqxlcw",
+    "mainfile": "11473.LDA.tddft.4584-5729/05039/05039.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "CqtMmNSJaQRW3UY-AVIMG7OzkAQC",
+    "upload_id": "U8sWMr4-SVSN78oZFhz_DA",
+    "mainfile": "02036/02036.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "3l7sIHg8CZLnNlbu-ThPND2lP_OU",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HIP-CO_Zn2+/ACE-HIP-CO_Zn2+.aims/ACE-HIP-CO_Zn2+.022.aims/energies/ORCA_PBEh-3c/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "WdDuTs-nujGII9K7beed2LLj2f4e",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "16308/16308.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "LNoY0NV5GArU_x_0j7_77Puc1CmA",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "16650/16650.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "-D1QVuU6dLxIQI6ytKPish1Z5T_4",
+    "upload_id": "YIRtcD9sQZymSmtZCw6I6g",
+    "mainfile": "01370/01370.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "mUomoultdUvSQwjBv5lNnTtn6B68",
+    "upload_id": "wodJosSgQMCO8TI09iKTBA",
+    "mainfile": "55757.PBE0.gs.tddft.0-1500/00784/00784.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "qZP5aeklN-I4fXIAJMv4LB4uPCaK",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "13730/13730.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "_A9b1PXdWNXc0yZJeN8pPRvhg3gO",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "16634/16634.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "9y1tY5boOOCLx5AvMIY33k2km7Wq",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/18989/18989.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "jI9Cgh8W79AqjDVktKyroKnAwva9",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HIE-COH_Zn2+/ACE-HIE-COH_Zn2+.aims/ACE-HIE-COH_Zn2+.035.aims/energies/ORCA_M06-L+D3_def2-QZVPP/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "-V6Xvi9vrIbijtwEivJQyTKNaR5B",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "11007/11007.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "XF_o6EPgTKgZcckDn-6AB-4SYQDS",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/18148/18148.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "F6LrRZ8u75GZ9TbkluZAX5o-UwMX",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/18756/18756.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "OjnO5qcZHURPET3U6GIyn_Fv7JvW",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HIP-CO_Zn2+/ACE-HIP-CO_Zn2+.aims/ACE-HIP-CO_Zn2+.056.aims/energies/ORCA_DLPNO-CCSD(T)_def2-QZVPP_PeptideOnly/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "CRiXZCFrxqabH1ZH_8ZvX4hkQYXz",
+    "upload_id": "weSM5NsUS1mQT0CKCqxlcw",
+    "mainfile": "11473.LDA.tddft.4584-5729/05451/05451.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Ko8_qdpwEbt5meFhP9KItwkxzGVo",
+    "upload_id": "Gi1MKu7LS42KwnDeFXL5Hg",
+    "mainfile": "55758.PBE0.gs.tddft.1500-3000/02664/02664.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "pS7g3J-z8psA4TJWJAKb7zeCspoJ",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/14971/14971.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "XuzkM2E_gP4iMg01qU_Pr91f-Cnd",
+    "upload_id": "8R3qo6DCS8ir-df3RbEXDA",
+    "mainfile": "55761.PBE0.gs.tddft.7699-10046/08491/08491.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "OotKPwoU8poZjKg0jog-uVxc_wl9",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11477.LDA.tddft.9168-10313/09740/09740.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "MfxnFeVA6FuVTT4PlkOghkXe0swM",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "18089/18089.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "F9ljlSOxRSGCckV7-OEFPN94xECI",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "14817/14817.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "rePsWpY2mGWHopdnvdx7XZnOaSv6",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "18628/18628.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "odsln0wueiy7DKArjIGNAjpl16_b",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/07096/07096.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "kyiPdEfhyLlBB_dNyl1yb_P5V31t",
+    "upload_id": "wodJosSgQMCO8TI09iKTBA",
+    "mainfile": "55757.PBE0.gs.tddft.0-1500/01368/01368.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "b9IwBZUtT1x9B6fdzeELJxFRJjKi",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/01288/01288.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "AKtW5JKAl1F0LgwKyYhjTwEKu7ou",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "12145/12145.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "DI4_KBpVSHexLxrJgfN9Ze7K_8_R",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/06902/06902.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "a0tE9--piRggY49bicFj3UZBw2Js",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11485.LDA.tddft.18336-19481/18650/18650.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "WQZziYFxkoMoEQjcFGlMAA5PutLO",
+    "upload_id": "U8sWMr4-SVSN78oZFhz_DA",
+    "mainfile": "01267/01267.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "b76wxpBSoxOTyZaonj3GD3MYY-Ug",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "18430/18430.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "2M0e4LOcXblmukPrpPXE9Ep-noTt",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/09622/09622.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ImUUT0khPcOFhhllywCg69Mgrnfg",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "10673/10673.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "DTkT0wpq3D7AcG7GkBpAeHOrqyND",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/06355/06355.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "rzHimEnf4-9r9emVVwcR-wf_ayKA",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11484.LDA.tddft.17190-18335/17743/17743.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "jiCgLkRGHpg2nZmgLPjIDgNF0KTV",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/16562/16562.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "AZe5_NOgJVWK1MaR1g-ABHMBhViK",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "19802/19802.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "aByOcnPMyE9Kq460Q_gEhtr0XOAr",
+    "upload_id": "YIRtcD9sQZymSmtZCw6I6g",
+    "mainfile": "02681/02681.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "YmjZCjF1u-bJ7glq4T__0nFRcyMF",
+    "upload_id": "iBz6W-MjQc6cl3ir_-sekw",
+    "mainfile": "06311/06311.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "2z4FQZcTkEi_AxySlkV1fIz2FMek",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/10403/10403.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "xqHAAgqTZqUouU8Tr4yVgaRKNVs7",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/13557/13557.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "hFfr9VnoZg4r3XibdKjPe1nt_Krx",
+    "upload_id": "weSM5NsUS1mQT0CKCqxlcw",
+    "mainfile": "11473.LDA.tddft.4584-5729/05236/05236.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "FS3DRes9vpB-kpX7v0Bkz5XfV-33",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "18404/18404.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "QuOR8yaawjW3_f1B-YWNKbWxIgh8",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11487.LDA.tddft.20628-21785/20718/20718.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "DwdsNavNU-kGYWIJLApddCILmcps",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "13579/13579.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "jEi2hYW3B6lDKA5-aDfthQjStgkC",
+    "upload_id": "Gi1MKu7LS42KwnDeFXL5Hg",
+    "mainfile": "55758.PBE0.gs.tddft.1500-3000/02475/02475.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Qrm2llYJ-PtoR0YLvj0np1_5h67w",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/13937/13937.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "JeY28Tdr8YRXLULp7aNDPZYoCx1g",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "09427/09427.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "2KySZHe_zd1JXqIAEgxNJwLYu86T",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/17464/17464.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "xNzOvyZbqEz8V5r88953ekr6AsT6",
+    "upload_id": "1uZ4lWNEQ9udQaeip84cPA",
+    "mainfile": "11472.LDA.tddft.3438-4583/04142/04142.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "55jEKdLa6lgSZUP_k_KnKOQ-ldrA",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HIE-CO_Zn2+/ACE-HIE-CO_Zn2+.aims/ACE-HIE-CO_Zn2+.011.aims/energies/ORCA_DLPNO-CCSD(T)_def2-SVP/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "oIVf4eNoQwXyWSaTiFgQgyFgB2Ya",
+    "upload_id": "63kvAqQgTPGvmTnZ669Z-g",
+    "mainfile": "55764.PBE0.gs.tddft.12395-14743/13526/13526.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Wk2koEDWDj3_mZmrBM8QOvVn-N9E",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/16910/16910.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "HBHT_1ey1kxRFh3f4pYXPVtZOS7D",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/07898/07898.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "3y1-wpq31UYznvj-cLstWhrFQSBC",
+    "upload_id": "NjF1HlQOQuOlN1NGximQ2A",
+    "mainfile": "55763.PBE0.gs.tddft.10047-12394/11662/11662.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "R839d0PQA7JRcmMLVT9R9KWDbWHf",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/02137/02137.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "cdKSDgyVZFbRyU6tXMajqTv6ixbn",
+    "upload_id": "1uZ4lWNEQ9udQaeip84cPA",
+    "mainfile": "11472.LDA.tddft.3438-4583/03903/03903.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ChftN9CPtJuE-EQgxMOCTtwey2gx",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HID-COH_Zn2+/ACE-HID-COH_Zn2+.aims/ACE-HID-COH_Zn2+.262.aims/energies/ORCA_M06-2X+D3_def2-QZVPP/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "TDocnZC3amP_Xs05WMEf79oLoLVD",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/15521/15521.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "M1ViOKgoV1gB_L17A705IBUZDSL6",
+    "upload_id": "63kvAqQgTPGvmTnZ669Z-g",
+    "mainfile": "55764.PBE0.gs.tddft.12395-14743/14694/14694.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "vnIGpqriEeT956r47WDX_chBtaWc",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "11859/11859.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "PQXpUGyRZGMWrFWaa6RObIZ105Jl",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/18868/18868.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "y5VGrGNjzsWzids9v0FVknw05Xsz",
+    "upload_id": "weSM5NsUS1mQT0CKCqxlcw",
+    "mainfile": "11473.LDA.tddft.4584-5729/04647/04647.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "G_BkcEnCR_40loeWxGXiGSVZisTg",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/17640/17640.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "rWRt8ORrNY1gMLXxcbbxMNYBbn2H",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/14265/14265.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "mxTN60aLBf2LDjR3MzRula6AVJ_4",
+    "upload_id": "NjF1HlQOQuOlN1NGximQ2A",
+    "mainfile": "55763.PBE0.gs.tddft.10047-12394/11822/11822.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "HeHWH6bwRBZ5rswjKfWS7-OjBB2F",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "17518/17518.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "E-a5XxIpm7QMoEUFhMkNpBTFB2xQ",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "21527/21527.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "P60XFO2u9eor9QMVP3dVG_LMJgsB",
+    "upload_id": "NjF1HlQOQuOlN1NGximQ2A",
+    "mainfile": "55763.PBE0.gs.tddft.10047-12394/11018/11018.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "bTLxlyWNxg-R27D_f8JgxAas_9c_",
+    "upload_id": "U8sWMr4-SVSN78oZFhz_DA",
+    "mainfile": "02042/02042.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "GYcfVEuxBIkAjRW0_YMjejxF9ZE-",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/06691/06691.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "A0SPRw8szCVRgTW57VXpz0kDKAAA",
+    "upload_id": "Gi1MKu7LS42KwnDeFXL5Hg",
+    "mainfile": "55758.PBE0.gs.tddft.1500-3000/02112/02112.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "EdfkIyCNHAj6InA6R3jPllqOXsO0",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HIE-CO_Zn2+/ACE-HIE-CO_Zn2+.aims/ACE-HIE-CO_Zn2+.009.aims/energies/ORCA_DLPNO-CCSD(T)_def2-SVP_PeptideGhost/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "tJuNBBBj2XpsV16mJLL7c5VqXrVW",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HIE-COH_Zn2+/ACE-HIE-COH_Zn2+.aims/ACE-HIE-COH_Zn2+.035.aims/energies/ORCA_RI-MP2_def2-QZVPP_PeptideGhost/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "hewM5_MhjpRirvKSbuOpe2hqztEk",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/01041/01041.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "U0WC0RsgRHOIFF2sRjP5tFW2nR4Q",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/04921/04921.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "cmRY97Lirk-il5RWDfHB_IlB2Ive",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/10467/10467.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "aCS1zOXWLn7nnmF1ASMDrnvlM3s8",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "19444/19444.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "wLf-K6W0kGSBlrnxm7RHIfqibSyk",
+    "upload_id": "1YtjcQzAQMqmNV-vny5X3g",
+    "mainfile": "55760.PBE0.gs.tddft.5350-7697/06915/06915.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "rUPaRt4pbH5Hb56I-4YgQfAiAFB0",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11476.LDA.tddft.8022-9167/08750/08750.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "glMr22NqZTGq_xzROS86m0BqGtis",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/13668/13668.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "TMLmwm0eCz3jIGC4rGiozhBzYBiY",
+    "upload_id": "1YtjcQzAQMqmNV-vny5X3g",
+    "mainfile": "55760.PBE0.gs.tddft.5350-7697/06956/06956.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "2C87bJOb-udbgK6Sxq7xH99lzOPk",
+    "upload_id": "63kvAqQgTPGvmTnZ669Z-g",
+    "mainfile": "55764.PBE0.gs.tddft.12395-14743/14214/14214.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "DLaR6EGHTyvprJrshiGglmjg84Ts",
+    "upload_id": "NjF1HlQOQuOlN1NGximQ2A",
+    "mainfile": "55763.PBE0.gs.tddft.10047-12394/10798/10798.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "1faQp-99hrpUvz1_i7aZQ6_iGXYZ",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11483.LDA.tddft.16044-17189/16150/16150.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "aftRF2fu3cVY2pFD7vqtLdrxHadC",
+    "upload_id": "1YtjcQzAQMqmNV-vny5X3g",
+    "mainfile": "55760.PBE0.gs.tddft.5350-7697/06306/06306.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Vt6t29FOUvBG5FPWM8OeRfTMM1Da",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/04866/04866.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "AI9D18lB-jcgAH3gUODlrA0IctJs",
+    "upload_id": "8R3qo6DCS8ir-df3RbEXDA",
+    "mainfile": "55761.PBE0.gs.tddft.7699-10046/08454/08454.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "EJJpXB_GGQxSTRfPdn9_GKCYJW1j",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11477.LDA.tddft.9168-10313/09984/09984.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "OF1aLiOwXrm_rQg0EcpUoUPE5o87",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11480.LDA.tddft.12606-13751/13087/13087.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "_yN6DoT3RCmq-1vTXGvVUYBTODLG",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/08044/08044.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "APb-JXxn9e85rLNWC-SjaXMt8BqD",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/17933/17933.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "qkBoB8tRCQPRDa3I0-ioPzNQeV_N",
+    "upload_id": "YIRtcD9sQZymSmtZCw6I6g",
+    "mainfile": "00359/00359.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "shoHvWhHCuAaWd0NJ1yUB3YtEVGY",
+    "upload_id": "U8sWMr4-SVSN78oZFhz_DA",
+    "mainfile": "01318/01318.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "4cHXRVfFsoPYMmLyuYoJhelPkk69",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/15977/15977.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ilb9dW0Sdt_72B2DhlPauZmShry3",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/14970/14970.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "XdPZm7rrT6AP3QN9W6hcr285rZKA",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11478.LDA.tddft.10314-11459/10682/10682.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "oYOW4vTBFHE-m-6UjTC10zKc--Ig",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "12767/12767.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "AvwI0duaJ6ll1wipBuKpJoTCu9nL",
+    "upload_id": "8R3qo6DCS8ir-df3RbEXDA",
+    "mainfile": "55761.PBE0.gs.tddft.7699-10046/07838/07838.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "UiCujUuZz3QuJerxDQKK0DMGOHF9",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/06484/06484.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "0X1LdafkdXOlxBp_IVUf9zj88Jay",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11486.LDA.tddft.19482-20627/19923/19923.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "3cNFbvLUrPcIeDU6PswUuGn3HCoP",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/11923/11923.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "aYqfxvizKr0CHt8dRbkRtAKes1eB",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "14938/14938.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "L9gF_JnwU7Q8jRo3BxEpsyLrvsJB",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/14332/14332.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "XcVD--9jmksccIlKSG8utoDlQ68P",
+    "upload_id": "weSM5NsUS1mQT0CKCqxlcw",
+    "mainfile": "11473.LDA.tddft.4584-5729/05673/05673.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "CmWT0Tr6vcmh_MGfazFlOuUngzJ5",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11483.LDA.tddft.16044-17189/16515/16515.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "jw5o82btzOVQKC-YQq4AKlD-zMhw",
+    "upload_id": "wodJosSgQMCO8TI09iKTBA",
+    "mainfile": "55757.PBE0.gs.tddft.0-1500/00437/00437.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "LszR8nosuT167NPhFXGwEkAKTjyH",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/07209/07209.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "us_l37GQR77ZKgY8a2EOaBjti6-Y",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11484.LDA.tddft.17190-18335/17340/17340.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "YDw2S9kniHrxoq0JOvfTV8xgPwq5",
+    "upload_id": "1YtjcQzAQMqmNV-vny5X3g",
+    "mainfile": "55760.PBE0.gs.tddft.5350-7697/06971/06971.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "fScdx7PFEwxsDl9S5o56ljY7wzoL",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11487.LDA.tddft.20628-21785/21770/21770.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "UftUVkhhNDZlaVl2cGZJZZaiIShj",
+    "upload_id": "1YtjcQzAQMqmNV-vny5X3g",
+    "mainfile": "55760.PBE0.gs.tddft.5350-7697/05809/05809.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Y1yyetx6kGkmthExltLaNBsv1ZF5",
+    "upload_id": "weSM5NsUS1mQT0CKCqxlcw",
+    "mainfile": "11473.LDA.tddft.4584-5729/04938/04938.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "bGv20YCS2sVtJdi0pLeR7CVM6jrL",
+    "upload_id": "1uZ4lWNEQ9udQaeip84cPA",
+    "mainfile": "11472.LDA.tddft.3438-4583/04378/04378.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "brilxIM4-CsdQ1euLahfXdFPfiD4",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "11987/11987.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "_xoR7cgayxNzcq4X42_A4lLAJhVF",
+    "upload_id": "NjF1HlQOQuOlN1NGximQ2A",
+    "mainfile": "55763.PBE0.gs.tddft.10047-12394/10390/10390.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "S9iC8YoSrN8NwBTlJ9amjjk7FofX",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "09448/09448.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "bYcDRiocCyFyv6jX5Nsgxm7C8bo_",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/19392/19392.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "_1YxrJTGmG2ab_JhxbiNw8IasBd2",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11484.LDA.tddft.17190-18335/17861/17861.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ksM6oTCYdzW7lQLGl3UlnzgS4eLj",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/16134/16134.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Ku42RW56hTkzE5am0d1g7GJwG67W",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/18857/18857.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "-QOu1agdw0aTF1q7CHick7Pdh8cO",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "15916/15916.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "TzPNB4_3KB6bPbio6kJijDkfrGF2",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/00715/00715.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "VTpVLk4KO1w7WI25g1N5SzKEojhC",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/17832/17832.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "lCESnCVa-lYwL_eZfXoO3U8c7Z5W",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11475.LDA.tddft.6876-8021/07648/07648.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "18z0Xh3BxpHmknaOVuFxTOqdS9HX",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11476.LDA.tddft.8022-9167/09118/09118.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "0zNvCyMeZdTLjDRo6W9FUK6pW_W6",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HIP-CO_Zn2+/ACE-HIP-CO_Zn2+.aims/ACE-HIP-CO_Zn2+.007.aims/energies/ORCA_M06-2X_def2-QZVPP/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "a5TkZWHidNB8n_qVTtHEsMalwnwb",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/19406/19406.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "N0ORkC-XP0zDucIKvXM_jinSZOyh",
+    "upload_id": "v2p66Xi4SwenPOv8WvOvAA",
+    "mainfile": "55767.PBE0.gs.tddft.19439-21785/20842/20842.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "GqRRapBvfaJ9savN_GL039hQqFNn",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "11343/11343.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "chXfrRg0e_sBGnGyGTXl5AgJokiY",
+    "upload_id": "wodJosSgQMCO8TI09iKTBA",
+    "mainfile": "55757.PBE0.gs.tddft.0-1500/01407/01407.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "BCQzt1OGDhbCpNCixoiRqQLkcB-N",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "13788/13788.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Lqot2hDScsfDhx728FqtfL4P_uPM",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/15964/15964.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "gd79YU5EbHxev_zIzMuh_DiA8iaD",
+    "upload_id": "weSM5NsUS1mQT0CKCqxlcw",
+    "mainfile": "11473.LDA.tddft.4584-5729/04671/04671.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "NvlpCHq-JQidP8ePkoDEqLqGBq6B",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11480.LDA.tddft.12606-13751/12896/12896.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "jUVe9eykh2GWzHnbAncrYBrTX8fp",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11478.LDA.tddft.10314-11459/10368/10368.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "oE6YtocAGJOZCYqKGgjn0sVBqnCZ",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/03700/03700.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "jOw2MtUyBvJaHe5ghj99u2c3HccY",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11487.LDA.tddft.20628-21785/21532/21532.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "hN8qTG5NstoDrVMRJA_MmLP95dYG",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/03454/03454.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "EUltbTt0Zc6Xi_LUOAgsW4Bh_kxH",
+    "upload_id": "U8sWMr4-SVSN78oZFhz_DA",
+    "mainfile": "01997/01997.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "hEIKd_VxyYBR8l-0ANPt749f9qmU",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/02685/02685.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "FfhVQiGr5NCLIwdty2WBqSc_N0c4",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11480.LDA.tddft.12606-13751/13285/13285.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "eryIbuShfUmQq-TkB8nUF3ObgQXY",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "10548/10548.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "6bZJiADo7GdfNCFmMAGzhAmulwX_",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/10587/10587.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "lJw-Y5u0vlAy-M1DN8g82mejQ_zu",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11485.LDA.tddft.18336-19481/18466/18466.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "JRJH6X-B_sFZwh1wfEPxJLW-HfoQ",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "14209/14209.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "88gEuooKqv6bWaCRvmiwQznnRQ62",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11478.LDA.tddft.10314-11459/10510/10510.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "yMD6qsfeHSfb20Hs1cnHlzpXrW7Y",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/15902/15902.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "hqSsu8Sfd1lPDCNU14Pr4aNqpkAc",
+    "upload_id": "63kvAqQgTPGvmTnZ669Z-g",
+    "mainfile": "55764.PBE0.gs.tddft.12395-14743/12996/12996.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "lcOZKe0dXAm5hGqRHUZdm19kCbA0",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11476.LDA.tddft.8022-9167/08195/08195.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "1dJfBo5CZ6KZ3OKXyEcfxX1sqUMG",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11482.LDA.tddft.14898-16043/15866/15866.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "jlEEvCwxlzdj5H2ZaEN1U_bGqy5A",
+    "upload_id": "Gi1MKu7LS42KwnDeFXL5Hg",
+    "mainfile": "55758.PBE0.gs.tddft.1500-3000/01761/01761.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ek6ypb7Sz98N54YoeP6S4P1sv-QS",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11482.LDA.tddft.14898-16043/15234/15234.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "3cLYGT13SB12afVGLTaym65xxW4e",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11486.LDA.tddft.19482-20627/20468/20468.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "OOu2g-kjU0RcUgOReo24ICMZhPcv",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HID-COH/ACE-HID-COH.aims/ACE-HID-COH.007.aims/energies/ORCA_RI-MP2_def2-QZVPP/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "vhVXSJ34DUPNCLnrZm4SZbz_mY_U",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/11134/11134.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "sws0JULQIDFGuhMhVPyshWbriIFt",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HID-COH_Zn2+/ACE-HID-COH_Zn2+.aims/ACE-HID-COH_Zn2+.006.aims/energies/ORCA_M06-L_def2-QZVPP/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "mJzn91mBTS0fKNd5ulygARRkJYu2",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "10181/10181.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "xmZdNAap66lnVpNPgI1X6IiVTDzg",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/05032/05032.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "soNZYOAj4GffNMjtSd3gq40L-rP7",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/02298/02298.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "9yvEkohBgezRF9xvy21nyZooXTpU",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HID-CO/ACE-HID-CO.aims/ACE-HID-CO.010.aims/energies/ORCA_M06+D3_def2-QZVPP/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "GTyHI_qxt81lHWiaFXVqCdoQBigl",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/10626/10626.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "flBqjSnWPiye_fBhvagmaQJuobY7",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11479.LDA.tddft.11460-12605/11816/11816.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "r1JkngBFb3VIGClY6BwkxfH3zS60",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "12689/12689.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "i03hO598zlgG5vkVefvR1olVa5nu",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HIE-COH_Zn2+/ACE-HIE-COH_Zn2+.aims/ACE-HIE-COH_Zn2+.008.aims/energies/ORCA_M06-L+D3_def2-QZVPP/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ICEH524pEfQczv0EszbA_dD1AiQk",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HIE-CO_Zn2+/ACE-HIE-CO_Zn2+.aims/ACE-HIE-CO_Zn2+.011.aims/energies/ORCA_DLPNO-CCSD(T)_def2-QZVPP_PeptideOnly/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "clCBcIBbINs-9d8vy9oFe_Ir6T5g",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11478.LDA.tddft.10314-11459/10711/10711.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "M0GNODmr29wHZnKxfIAV0rjkda7T",
+    "upload_id": "wodJosSgQMCO8TI09iKTBA",
+    "mainfile": "55757.PBE0.gs.tddft.0-1500/00242/00242.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "J3zah8w3-59jQPRuy8NsDO1lh_f3",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/01019/01019.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Tl5CrgBP_5RxvYOpLyLSoxdupL7P",
+    "upload_id": "NjF1HlQOQuOlN1NGximQ2A",
+    "mainfile": "55763.PBE0.gs.tddft.10047-12394/11415/11415.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "cndjYphfTLFPQCWbfZi7SwGDQ-hL",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/07642/07642.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "bZe0I1hbEWmdJsdWbRd7Wuvb2lVO",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/11764/11764.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "_UZUGs7GOhkj6KWXbdrVwC3OnK2E",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "12262/12262.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "hlImkEdK6_yfseTUtaTgpqK8pfBs",
+    "upload_id": "mpb84OKIQiuFO_XZPP-p9A",
+    "mainfile": "52674.LDA.gs.tddft.3001-7697/04417/04417.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "OhKWxQ6CiiPew2utC-25hlRnmrnz",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/13908/13908.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "V1NNkgXkSo5WXUEoJM6OSMbxTyvR",
+    "upload_id": "v2p66Xi4SwenPOv8WvOvAA",
+    "mainfile": "55767.PBE0.gs.tddft.19439-21785/19916/19916.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "WkxcEx1-tRupfiCn0EDVFBxphLXI",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "17762/17762.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "I99Q2RDWGb8oMQEumE1rB2oqo6NR",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/07882/07882.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "S8T_nuKb2zAOrquc9D93mxF4D5tx",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11478.LDA.tddft.10314-11459/11342/11342.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "r4y-f4IsY8HyzlylufgPU4n30pdR",
+    "upload_id": "XItqZApRSPGNPsA89Vu_tg",
+    "mainfile": "21126/21126.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "WlTpv2mTY06tBeMZCuCtyCLbKOKW",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "13745/13745.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "C4GxHKVKryZu5khR0p_Fc66KQwf-",
+    "upload_id": "1YtjcQzAQMqmNV-vny5X3g",
+    "mainfile": "55760.PBE0.gs.tddft.5350-7697/07441/07441.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "5m-nC678xRt9kUwZXtf9e2cy6Ie6",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_partial_surface_termination/1-2-3tet/f/1-2-3tet_C-P_f_2/pbe0/scf_pbe0_1-2-3tet_f.out",
+    "main_author": "Thorren Kirschbaum",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "lkdHx9hcAcJRElv81-kHEuV8T5Mc",
+    "upload_id": "v2p66Xi4SwenPOv8WvOvAA",
+    "mainfile": "55767.PBE0.gs.tddft.19439-21785/21478/21478.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "mnVVxXPdFBTXZke9Q-piSR3PGx3P",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/15666/15666.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "HL6V27Iy3Cju5KoAuumub_d3c7X3",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "08327/08327.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "9MBR4Ur9O3Oq2JRDIwYPrUO2VfK6",
+    "upload_id": "1YtjcQzAQMqmNV-vny5X3g",
+    "mainfile": "55760.PBE0.gs.tddft.5350-7697/07072/07072.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "aIpFd8G_jyzwg0yNe0Qyu0VfPS3t",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/11381/11381.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Zku8mTap2_vtmly5Y5DmlPxIAb2V",
+    "upload_id": "NjF1HlQOQuOlN1NGximQ2A",
+    "mainfile": "55763.PBE0.gs.tddft.10047-12394/10161/10161.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "6sCIOr8McBjNmUFkqlAlvph2uSby",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "15197/15197.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "lGCjq94cB1sx84Vy_EmYasCsa5x3",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/21096/21096.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "u6xwM2t8sA2SpydoQ6PFUaU6mTB2",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "14261/14261.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "QVlQzYYCfWWQPyaYZAetp4K8ZeEp",
+    "upload_id": "YIRtcD9sQZymSmtZCw6I6g",
+    "mainfile": "01757/01757.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "JA4X5heH4Q4UjTShYAB6CohzXclm",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11478.LDA.tddft.10314-11459/10345/10345.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "5ku6XZqjGhjGIVbXJa5ihH5cROcJ",
+    "upload_id": "1YtjcQzAQMqmNV-vny5X3g",
+    "mainfile": "55760.PBE0.gs.tddft.5350-7697/06113/06113.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "wpmG6rB66SDR_iHzaURTAoetbSbf",
+    "upload_id": "1uZ4lWNEQ9udQaeip84cPA",
+    "mainfile": "11472.LDA.tddft.3438-4583/03810/03810.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "dBccY8Wa0ZxiFljqcr9XWYOGhb20",
+    "upload_id": "U8sWMr4-SVSN78oZFhz_DA",
+    "mainfile": "01387/01387.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "1ZhPw4Y4Potm1nfaPXsp-EJ8h8Kb",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "09079/09079.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Pqe_jpIpCgd9Y02jX6-37s5xP3yt",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/13009/13009.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "RlgBgk_SZY2zQtjAW6POI_ymZcAf",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/20031/20031.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Tj9MHxq_KBdn-me6F_BfkvafOL0x",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/17198/17198.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "rePdu7u3yN2_bxG46x6G_-Qfa9qO",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/08866/08866.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "utSWFApzZ38xJrfufJcn0gQqZgnW",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11475.LDA.tddft.6876-8021/07760/07760.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "lx5s5I-2is-ynUtwdo4KciJPpX8h",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/17127/17127.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ryZNhIH3VhyvCA0JNrCdCqsj4GmH",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HID-CO/ACE-HID-CO.aims/ACE-HID-CO.017.aims/energies/ORCA_M06-L+D3_def2-QZVPP/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "bbav4SIHrGe6HwGDBgOm_1r7QUXY",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11486.LDA.tddft.19482-20627/20005/20005.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "eXD8yIJeiRRSRFequLSBK942lrKy",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11487.LDA.tddft.20628-21785/21174/21174.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ghGh7JOM5qjuJz-8rpgGgiFHm_oR",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HIE-CO/ACE-HIE-CO.aims/ACE-HIE-CO.012.aims/energies/ORCA_PBEh-3c/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "bXrBybGoItjk4a2wQXUrMVvWUe1L",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/1212pent/h/1212pent_C-P_h_3/pbe0/scf_pbe0_1212pent_h.out",
+    "main_author": "Thorren Kirschbaum",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "tmZX-V8yBaOzLhJYlKqX8O2kJtu9",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "09551/09551.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "KX_goAOvhCx6GI__FQN5izLnlOza",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "12644/12644.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "OvaOEJl68prr8SEWtbWb1oH1EM0O",
+    "upload_id": "1YtjcQzAQMqmNV-vny5X3g",
+    "mainfile": "55760.PBE0.gs.tddft.5350-7697/07310/07310.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "30z46JEc0mFi0qjjlmgIGayBi7PT",
+    "upload_id": "g7hniWphQmmzLyaH9TortQ",
+    "mainfile": "01123/01123.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "VvahsIFW6H-asQIbKpKYl6zwlLqC",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HIP-CO_Zn2+/ACE-HIP-CO_Zn2+.aims/ACE-HIP-CO_Zn2+.076.aims/energies/ORCA_PBEh-3c/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "yhOBEbWLqnhfpokVkcGBD7X5sPjk",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HID-CO_Zn2+/ACE-HID-CO_Zn2+.aims/ACE-HID-CO_Zn2+.075.aims/energies/ORCA_DLPNO-CCSD(T)_def2-QZVPP_PeptideGhost/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "y_wqpIEKGD9t5w0rOj_5LZOnFGF3",
+    "upload_id": "iBz6W-MjQc6cl3ir_-sekw",
+    "mainfile": "06146/06146.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "PdzyBbmwVKdeYieu4_Heo_HwzR0n",
+    "upload_id": "U8sWMr4-SVSN78oZFhz_DA",
+    "mainfile": "01196/01196.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Jskssv-E7R7LjBrJ6dW86mWccgqc",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_partial_surface_termination/123tet/f/123tet_Si-N_f_1/pbe0/scf_pbe0_123tet_f.out",
+    "main_author": "Thorren Kirschbaum",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "io3TZ8Sq7G8bBZCTIAM8keLHfgGc",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11484.LDA.tddft.17190-18335/18255/18255.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "AdoJJ6n9G5ZF8JfZ1IPbwStl41Ps",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/05132/05132.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "MplOFF4oKVgopHVidOWloUEynrUR",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11480.LDA.tddft.12606-13751/12669/12669.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "zhiON26bVgHySV8N8IUIVKEEacnU",
+    "upload_id": "qgIBMhJwSZWZs3rCIZGQlA",
+    "mainfile": "55765.PBE0.gs.tddft.14744-17091/16019/16019.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "1nbReKWmEh83STglFPB7APJcE_0I",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/03490/03490.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "H7TmcfNO-IscA5_rTceZTD8lOTdA",
+    "upload_id": "NjF1HlQOQuOlN1NGximQ2A",
+    "mainfile": "55763.PBE0.gs.tddft.10047-12394/11370/11370.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "D5aAeoglpY6qBlpzxOh-s5WGSTPJ",
+    "upload_id": "wodJosSgQMCO8TI09iKTBA",
+    "mainfile": "55757.PBE0.gs.tddft.0-1500/00305/00305.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "tMIV-WKL3TyDVrIoEQL5Hkqcwc8c",
+    "upload_id": "g7hniWphQmmzLyaH9TortQ",
+    "mainfile": "00663/00663.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "KKBqRJxjnJg8-fcZLGwQs6V0kKCI",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11483.LDA.tddft.16044-17189/16923/16923.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "VelHdf52D7s248uhF9_xiCLdlezP",
+    "upload_id": "66u1Cei6QVKoANvy7msgbw",
+    "mainfile": "52662.LDA.gs.tddft.0-3000/00242/00242.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "7KHoEAh-AwQZm5sQcHBi8Qp56PZp",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11487.LDA.tddft.20628-21785/21476/21476.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "SMT0A4r5V_bvPchNla_T8zft8APm",
+    "upload_id": "v2p66Xi4SwenPOv8WvOvAA",
+    "mainfile": "55767.PBE0.gs.tddft.19439-21785/19480/19480.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "QKn1L-XMr4ZS2yRVsMhg47Qn2v0v",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/17193/17193.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "jNLij2juSf9DJhDLwYLHu_DsONjp",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11479.LDA.tddft.11460-12605/12397/12397.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "rCyj-0x5Etz3w8Uii-Xdxcq8lcXp",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11476.LDA.tddft.8022-9167/08291/08291.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "otw-Nzl800PC7xOV28b5RmO6XUvG",
+    "upload_id": "63kvAqQgTPGvmTnZ669Z-g",
+    "mainfile": "55764.PBE0.gs.tddft.12395-14743/12942/12942.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "__ZoE1z8UUhmA9x1nVuPE5Q_Xalg",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/18386/18386.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "dpU7Q5bauEUbHlWcPazkhoJojZ7c",
+    "upload_id": "fgj2HPTwT_-IM3ZMvbWMPg",
+    "mainfile": "52675.LDA.gs.tddft.7697-12394/11963/11963.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "EOskQP2gE61a06dG7uCULLktZlgS",
+    "upload_id": "1YtjcQzAQMqmNV-vny5X3g",
+    "mainfile": "55760.PBE0.gs.tddft.5350-7697/05728/05728.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "2CCO6yVW4-9ehxcUdmfK0NXV_HAk",
+    "upload_id": "ooSWnAr1Qbyt_xRv1pVPvw",
+    "mainfile": "11476.LDA.tddft.8022-9167/08623/08623.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "wU-pSYCn5YI2ADcBjncXTQihnPax",
+    "upload_id": "8R3qo6DCS8ir-df3RbEXDA",
+    "mainfile": "55761.PBE0.gs.tddft.7699-10046/09318/09318.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "bEIHJntYppDzVyx7LHpjW9FoEJEE",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "13197/13197.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "_7TpPJNMY6z7v1TGfj59BaE5hHqD",
+    "upload_id": "63kvAqQgTPGvmTnZ669Z-g",
+    "mainfile": "55764.PBE0.gs.tddft.12395-14743/14201/14201.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "g6HTHqTjt5UPnLIm_Sx8yZYd7BAC",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/03862/03862.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "iaGNH06By1Ov6Jl5RFOZ1e1ntfq3",
+    "upload_id": "bUxk6N5CSCaJr_AsEhAClA",
+    "mainfile": "11482.LDA.tddft.14898-16043/15373/15373.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "-9IMGDGm34sHutEkZZJhYmhQXHli",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "08599/08599.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "Le47yMBNNoY7zZKJ9qbN4PGD4njn",
+    "upload_id": "ZwM2NRBIQGKsCRK2GU45Mg",
+    "mainfile": "11478.LDA.tddft.10314-11459/11299/11299.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "g5fBppEkq53ekrONPYjVyjDmkLwB",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/21078/21078.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "BWt2cTNfpFyTw6ny9fAC3qx1ygtg",
+    "upload_id": "8R3qo6DCS8ir-df3RbEXDA",
+    "mainfile": "55761.PBE0.gs.tddft.7699-10046/09056/09056.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "KeGsTYLD5ZDfHWavUD0EKRAzfLbP",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/05314/05314.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "lKHzfAAnkrzEPLeluAdroEvDEiwW",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/18480/18480.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "b5OUuTkALsMmOTipyAJVt4vXeZmT",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11486.LDA.tddft.19482-20627/20174/20174.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "j2dvlEQW_rWrG5EzSvEjYd-KId2E",
+    "upload_id": "8R3qo6DCS8ir-df3RbEXDA",
+    "mainfile": "55761.PBE0.gs.tddft.7699-10046/09180/09180.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "MuUeo1388nvCvFsgL1paNIoxkyLE",
+    "upload_id": "NjF1HlQOQuOlN1NGximQ2A",
+    "mainfile": "55763.PBE0.gs.tddft.10047-12394/11040/11040.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "CM5YNvkWoSalS0QMEXYyPRsDMNdx",
+    "upload_id": "bRqWNS1DToK4gatOzGTeLQ",
+    "mainfile": "52677.LDA.gs.tddft.17091-21785/21779/21779.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "oLDMhLCnpm4UGIaK2ok5couxbF3-",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HIE-CO_Zn2+/ACE-HIE-CO_Zn2+.aims/ACE-HIE-CO_Zn2+.011.aims/energies/ORCA_RI-MP2_def2-TZVPP_PeptideGhost/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "nu_JjbZBRHs4koRXW205cLhkZDJi",
+    "upload_id": "oU5I5M6lTF2XuN8uLPwUWA",
+    "mainfile": "52676.LDA.gs.tddft.12394-17091/13670/13670.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "qPJjG6dGrA3Vx0odSH1_ycHzTjbd",
+    "upload_id": "U8sWMr4-SVSN78oZFhz_DA",
+    "mainfile": "01854/01854.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "m4tTDYEEfpt1Zp5SUon0tbQ152_n",
+    "upload_id": "z9iX4UVXTEieKhb1BbPC3A",
+    "mainfile": "Thio-Michael_Additions/Bond_Length_PES_Scans/Acrylamide/anti_180/CCSD(T)/021/orca.out",
+    "main_author": "Shayantan Chaudhuri",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "JYWT0SfN8q3h3Y16KaPE5D8Hf_UK",
+    "upload_id": "2zvFxNEUSnKYRP-DkzcYCQ",
+    "mainfile": "08747/08747.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "rRB4GWFpMIdoPhTL3vYr_1Fu6lK3",
+    "upload_id": "cJ6dPO0ZSHuFiwQIip8tLg",
+    "mainfile": "14095/14095.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "T54tUS9zIhOGqk3EM-skQq1Moako",
+    "upload_id": "z1ZAmeOaRguP0sZSPM83QA",
+    "mainfile": "55759.PBE0.gs.tddft.3001-5349/03042/03042.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "S-h_P05JxH741coRgieGpT_6GRQZ",
+    "upload_id": "AqNHua7ZRpafmdlifxWQrg",
+    "mainfile": "55766.PBE0.gs.tddft.17092-19438/18620/18620.out",
+    "main_author": "Joaquim Jornet-somoza",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "i30cxqVKPDDVKnTB5V3WLmLCCWw_",
+    "upload_id": "Sl9kFEhiRZ6U1lfmpgcrDQ",
+    "mainfile": "11486.LDA.tddft.19482-20627/20359/20359.out",
+    "main_author": "Ask Hjorth Larsen",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "ez_LWS6-zCOk3WZafNBIPsqGHYwL",
+    "upload_id": "CgH_YG0xR3Cjmor4---43g",
+    "mainfile": "Chapter_5/C5_gasphase/nba2dpes/180/180benzalopt.out",
+    "main_author": "Martin Lea",
+    "system": "molecule / cluster",
+    "structural_type": "molecule / cluster"
+  },
+  {
+    "entry_id": "9uGpyOvaoWiCizvJtBme0-DAI2KD",
+    "upload_id": "ekxigUpSRjy_ok1lOJSqtQ",
+    "mainfile": "ARCHIVE_SODALITES/ARCHIVE_ORCA_GaSiI/TDDFT_PBE0_FORMEB.out",
+    "main_author": "Stephan Steinmann",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "HsqVmMpeWQDJF5x3gXd7vjqzQ1zW",
+    "upload_id": "SB9YIQf8SviLiIsBoDMP_g",
+    "mainfile": "windmill/soc-tddft/anion_1a/mot2sb.out",
+    "main_author": "Jan-Niclas Luy",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "JpyD9nySf0fM-PmOuwi6mBcS-2K7",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/c88h80/h/C88H80_P-Si_h_3/pbe0/scf_pbe0_c88h80_h.out",
+    "main_author": "Thorren Kirschbaum",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "SxpKnP6FUBcE2QmDxfq9COBiMOwG",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_partial_surface_termination/c88h80/oh/C88H80_C-N_oh_1/pbe0/scf_pbe0_c88h80_oh.out",
+    "main_author": "Thorren Kirschbaum",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "4eHJciz2yfucaxWoSTFFOh08hK8d",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_partial_surface_termination/c74h64/oh/C74H64_C-P_oh_1/pbe0/scf_pbe0_c74h64_oh.out",
+    "main_author": "Thorren Kirschbaum",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "lP137WyIT7D4P8ZBCOUvqcj3fpyf",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_partial_surface_termination/c68h64/nh2/C68H64_C-B_nh2_2/pbe0/scf_pbe0_c68h64_nh2.out",
+    "main_author": "Thorren Kirschbaum",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "7IPEMJ6r3KAoMSW5XqWK3ZfRgroN",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_partial_surface_termination/1234pent/nh2/1234pent_C-N_nh2_3/pbe0/scf_pbe0_1234pent_nh2.out",
+    "main_author": "Thorren Kirschbaum",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "MDPRS-gLr3qiOerdebsqmUzLGld0",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_partial_surface_termination/c48h48/oh/C48H48_C-P_oh_3/pbe0/scf_pbe0_c48h48_oh.out",
+    "main_author": "Thorren Kirschbaum",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "CXU3rs3kO3DsjfmpgPaP-5YNMCbq",
+    "upload_id": "_b-hD5zFS0a7EY1KGjbEAw",
+    "mainfile": "m5-m6_TD-DFT.out",
+    "main_author": "Mostafa Tavakoli",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "9y0f3QBMpbVzxqPWMD24lhpD0LR0",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/1234pent/oh/1234pent_C-P_oh_2/pbe0/scf_pbe0_1234pent_oh.out",
+    "main_author": "Thorren Kirschbaum",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "g2WUKjnJeOlmkyb45ceyNNIgH4EU",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_partial_surface_termination/c53h48/oh/C53H48_C-N_oh_1/pbe0/scf_pbe0_c53h48_oh.out",
+    "main_author": "Thorren Kirschbaum",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "GqLdqp8jqPD86PSdy9jP4jJkghax",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/c48h48/oh/C48H48_B-B_oh_3/pbe0/scf_pbe0_c48h48_oh.out",
+    "main_author": "Thorren Kirschbaum",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "o91549Bx_Q6wN-PHpAzwSdkBCKcz",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/c68h64/h/C68H64_P-B_h_3/pbe0/scf_pbe0_c68h64_h.out",
+    "main_author": "Thorren Kirschbaum",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "hHGazXJFDGdJq4ivZJs19za0VZgt",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/c35h36/f/C35H36_N-N_f_3/pbe0/scf_pbe0_c35h36_f.out",
+    "main_author": "Thorren Kirschbaum",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "6HrKOIfu5vLQr9zyNkXM08FrJ7dZ",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/di/nh2/di_C-B_nh2_1/pbe0/scf_pbe0_di_nh2.out",
+    "main_author": "Thorren Kirschbaum",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "OW3KAd-tG-13REHnHo8byFreb1vL",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/c109h80/h/C109H80_P-N_h_1/pbe0/scf_pbe0_c109h80_h.out",
+    "main_author": "Thorren Kirschbaum",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "ldekNE7knsCowlWefrN41vHACTdd",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/123tet/nh2/123tet_P-P_nh2_3/pbe0/scf_pbe0_123tet_nh2.out",
+    "main_author": "Thorren Kirschbaum",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "a2p7ZecT4aYIUd9UpSlPGSHRGFLs",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_partial_surface_termination/c48h48/f/C48H48_P-P_f_1/pbe0/scf_pbe0_c48h48_f.out",
+    "main_author": "Thorren Kirschbaum",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "3_RlgKkDDv2gS_iQ0YL8RNfSu48u",
+    "upload_id": "-3jN-kD-TE2vBGD9hmjsEA",
+    "mainfile": "nd5k_xtb_pbe0_renumbered/nd5k_full_surface_termination/c48h48/f/C48H48_Si-N_f_2/pbe0/scf_pbe0_c48h48_f.out",
+    "main_author": "Thorren Kirschbaum",
+    "system": "unavailable",
+    "structural_type": "unavailable"
+  },
+  {
+    "entry_id": "vGR5Z28Reo9qplyM0K1qf5kVyyzM",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HID-COH_Zn2+/ACE-HID-COH_Zn2+.aims/ACE-HID-COH_Zn2+.228.aims/energies/ORCA_DLPNO-CCSD(T)_def2-QZVPP_ZnOnly/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "atom",
+    "structural_type": "atom"
+  },
+  {
+    "entry_id": "UP_nmW6MMlvtOX69NRDhmJPXY3Uo",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HID-CO_Zn2+/ACE-HID-CO_Zn2+.aims/ACE-HID-CO_Zn2+.116.aims/energies/ORCA_RI-MP2_def2-TZVPP_ZnOnly/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "atom",
+    "structural_type": "atom"
+  },
+  {
+    "entry_id": "XRmm_eLi5E_zDM4Xxj0czyWaAXCx",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-2/ACE-HIP-CO_Zn2+/ACE-HIP-CO_Zn2+.aims/ACE-HIP-CO_Zn2+.056.aims/energies/ORCA_DLPNO-CCSD(T)_def2-SVP_ZnOnly/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "atom",
+    "structural_type": "atom"
+  },
+  {
+    "entry_id": "-vwwbYGnw6qSNCETCeP6PZEySR5F",
+    "upload_id": "Huw17VVQQserFRRMLAcDKA",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HID-CO_Zn2+/ACE-HID-CO_Zn2+.aims/ACE-HID-CO_Zn2+.052.aims/energies/ORCA_RI-MP2_def2-TZVPP_ZnOnly/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "atom",
+    "structural_type": "atom"
+  },
+  {
+    "entry_id": "dzX1RBNVOsk5Yrbrql_xPp9Bgbbw",
+    "upload_id": "kZ91HfFcRyWSEGCbrfg2wQ",
+    "mainfile": "nomad/amoebabio09-MSmod-1/ACE-HIE-CO_Zn2+/ACE-HIE-CO_Zn2+.aims/ACE-HIE-CO_Zn2+.009.aims/energies/ORCA_RI-MP2_def2-QZVPP_ZnOnly/ORCA.out",
+    "main_author": "Markus Schneider",
+    "system": "atom",
+    "structural_type": "atom"
+  },
+  {
+    "entry_id": "fI_woyhNXfSTrZed2-gaTzT52EAJ",
+    "upload_id": "eJo5a3zVSQChOHMYY63qkg",
+    "mainfile": "FeOOSc/I-H+-P.out",
+    "main_author": "Satadal Paul",
+    "system": "not processed",
+    "structural_type": "not processed"
+  },
+  {
+    "entry_id": "V6S7YFrutBsOgM-FKfTFM5R7vMxC",
+    "upload_id": "J59R8OuMSFCvIRqS0hXhDA",
+    "mainfile": "dialanine/CC-vacuo/minus90-30.out",
+    "main_author": "Esma Boydas",
+    "system": "not processed",
+    "structural_type": "not processed"
+  }
+]
